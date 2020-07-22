@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### [LearnMySQL](https://github.com/shuvoaftab/LearnMySQL)
+# Ibrahim Sharif's Popular Learn Series Repositories below:
+![alt text](https://github.com/shuvoaftab/shuvoaftab/blob/master/database-solid.svg "LearnMySQL") ### [LearnMySQL](https://github.com/shuvoaftab/LearnMySQL)
 
