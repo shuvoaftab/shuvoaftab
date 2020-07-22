@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Ibrahim Sharif's Popular Learn Series Repositories below:
-![alt text](https://github.com/shuvoaftab/shuvoaftab/blob/master/database-solid.svg "LearnMySQL") ### [LearnMySQL](https://github.com/shuvoaftab/LearnMySQL)
+### [⭐LearnMySQL](https://github.com/shuvoaftab/LearnMySQL)
 
