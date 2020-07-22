@@ -1,19 +1,17 @@
-### Hi there 👋
+# Greeting from Ibrahim Sharif 🤓
 
-<!--
-**shuvoaftab/shuvoaftab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Ibrahim Sharif's Popular Learn Series Repositories below:
+## Popular Learn Series Repositories below:
 ### [⭐LearnMySQL](https://github.com/shuvoaftab/LearnMySQL)
+### [⭐LearnPython](https://github.com/shuvoaftab/LearnPython)
+
+
+# Popular Ecommerce Series Repositories below:
+### [⭐Magento2](https://github.com/shuvoaftab/magento2)
+### [⭐WooCommerce Snippets](https://github.com/shuvoaftab/woocommerce-snippets)
+
+
+
+
+
+
 
