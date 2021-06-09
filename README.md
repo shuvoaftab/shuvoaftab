@@ -1,6 +1,10 @@
 # Greeting from Ibrahim Sharif 🤓
 <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 
+<div align="center" width="50">
+  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+</div>
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahim Sharif" />
 </p>
