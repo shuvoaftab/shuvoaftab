@@ -1,5 +1,9 @@
 # Greeting from Ibrahim Sharif 🤓
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahim Sharif" />
+</p>
+
 ## 💻 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
@@ -35,7 +39,9 @@
 #### [🛒 OpenCart Snippets](https://github.com/shuvoaftab/opencart-snippets)
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvoaftab&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
 
