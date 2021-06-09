@@ -67,10 +67,10 @@
 #### [🛒 OpenCart Snippets](https://github.com/shuvoaftab/opencart-snippets)
 <hr>
 
-### ⚙️ &nbsp;GitHub Analytics
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/shuvoaftab">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
 </a>
