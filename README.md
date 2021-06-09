@@ -1,11 +1,13 @@
-# Greeting from Ibrahim Sharif 🤓
-
-
+<p align="center"> # Greeting from Ibrahim Sharif </p><br/>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahim Sharif" />
 </p>
+<p align="center">
+<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
+</p>
+
 <hr>
-<!--p align="center"><img src="https://profile-counter.glitch.me/{shuvoaftab}/count.svg" alt="AnhellO :: Visitor's Count" /></p-->
+
 ## 💻 Languages and Tools:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
