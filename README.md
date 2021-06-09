@@ -1,5 +1,6 @@
 # Greeting from Ibrahim Sharif 🤓
 
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahim Sharif" />
 </p>
@@ -84,15 +85,36 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <hr>
 
 ### Popular Learn Series Repositories below:
-#### [⭐ LearnMySQL](https://github.com/shuvoaftab/LearnMySQL)
-#### [⭐ LearnPython](https://github.com/shuvoaftab/LearnPython)
-#### [⭐ LearnPHP](https://github.com/shuvoaftab/LearnPHP)
-#### [⭐ OOP Java](https://github.com/shuvoaftab/OOP46)
+  
+<a href="https://github.com/shuvoaftab/LearnMySQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=LearnMySQL&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/shuvoaftab/LearnPython">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=LearnPython&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/shuvoaftab/LearnPHP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=LearnPHP&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/shuvoaftab/OOP46">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=OOP46&theme=tokyonight" />
+</a>
 
 ### Popular Ecommerce Series Repositories below:
-#### [🛒 Magento2](https://github.com/shuvoaftab/magento2)
-#### [🛒 WooCommerce Snippets](https://github.com/shuvoaftab/woocommerce-snippets)
-#### [🛒 OpenCart Snippets](https://github.com/shuvoaftab/opencart-snippets)
+
+<a href="https://github.com/shuvoaftab/magento2">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Magento2&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/shuvoaftab/woocommerce-snippets">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=WoocommerceSnippets&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/shuvoaftab/opencart-snippets">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=OpencartSnippets&theme=tokyonight" />
+</a>
 <hr>
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp;GitHub Analytics
