@@ -91,21 +91,21 @@
 <img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
 <hr>
 
-<i>Follow me around the web:</i><br>
+<!--i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/ibrahimsharif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/ibrahim.ibn.alamgir/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://twitter.com/shuvoaftab" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshuvoaftab"></a>
-<hr>
+<hr-->
 
 <p align="center">
 <a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ibrahimsharif"><img src="https://img.shields.io/badge/-Ibrahim Sharif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-@ibrahim.ibn.alamgir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/ibrahim.ibn.alamgir/"><img src="https://img.shields.io/badge/-@ibrahim.ibn.alamgir-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/ibrahim.ibn.alamgir/"><img src="https://img.shields.io/badge/-Ibrahim Sharif-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-@Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
