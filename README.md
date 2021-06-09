@@ -39,15 +39,15 @@
 #### [🛒 OpenCart Snippets](https://github.com/shuvoaftab/opencart-snippets)
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ibrahim Sharif's Github Stats">
+<!--img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ibrahim Sharif's Github Stats"-->
 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoaftab&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
+<div>
 <i>Follow me around the web:</i><br>
-
 <a href="https://www.linkedin.com/in/ibrahimsharif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/ibrahim.ibn.alamgir/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
