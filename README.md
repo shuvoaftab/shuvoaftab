@@ -244,3 +244,21 @@ Sunday       91 commits     ███████░░░░░░░░░░�
   </table>
 
 [<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/user/mribrahimsharif?sub_confirmation=1)
+
+<hr>
+
+<p align="center">
+  <a href="https://github.com/shuvoaftab">
+    <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg">  
+  </a>
+  <h4 align="center"><code>📊 GitHub Metrics</code></h4>
+</p>
+
+<p align="center">
+  <a href='https://github.com/shuvoaftab/'>
+    <img width="75%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/metrics.svg"/>
+    <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/metrics.detailed.svg" width="75%"/>
+  </a>
+</p>
+
+
