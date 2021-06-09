@@ -229,11 +229,15 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 |`M`| | | | | | | | | | |
 <hr>
 
-## 📺 Latest YouTube Videos
+## 📺 YouTube Videos
 
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=VaxsQBr4vKM"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=VaxsQBr4vKM"><img width="140px" src="http://i3.ytimg.com/vi/VaxsQBr4vKM/hqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VaxsQBr4vKM">Creating Schema & Demo Data for further Operation</a><br/>May 14, 2021</td></tr>
+    
+ <tr><td><a href="https://www.youtube.com/watch?v=mNRjqFomP-8"><img width="140px" src="http://i3.ytimg.com/vi/mNRjqFomP-8/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mNRjqFomP-8">Database Management System - Metropolitan University</a><br/>May 16, 2021</td></tr>
 <!-- YOUTUBE:END -->
 </tbody>
