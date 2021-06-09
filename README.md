@@ -39,10 +39,12 @@
 #### [🛒 OpenCart Snippets](https://github.com/shuvoaftab/opencart-snippets)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ibrahim Sharif's Github Stats">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvoaftab&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
 <i>Follow me around the web:</i><br>
 
@@ -55,5 +57,6 @@
 
 </div>
 
-
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
 
