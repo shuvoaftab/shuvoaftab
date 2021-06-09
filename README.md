@@ -292,7 +292,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shuvoaftab&skills=JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=shuvoaftab&skills=PHP,JavaScript,CSS,SCSS,TypeScript&show-other-skills=true"
 />
 
 
