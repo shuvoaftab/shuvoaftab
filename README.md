@@ -109,11 +109,11 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 </a>
 
 <a href="https://github.com/shuvoaftab/woocommerce-snippets">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=WoocommerceSnippets&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Woocommerce-Snippets&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/shuvoaftab/opencart-snippets">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=OpencartSnippets&theme=tokyonight" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Opencart-Snippets&theme=tokyonight" />
 </a>
 <hr>
 
