@@ -88,7 +88,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 <p align="center">
   <a href="https://github.com/shuvoaftab">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab#version3"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab&count_private=true&theme=radical" alt="Ibrahim Sharif" />
   </a>
 </p>
 <hr>
