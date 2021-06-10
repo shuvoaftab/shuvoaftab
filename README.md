@@ -31,8 +31,10 @@
 
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
 <h1 align="center"> Skills that i focus primarily </h1> <br/>
-<p> Server Administration </p>
-<p> Networking </p>
+<p>
+ ![Server Administration](https://img.shields.io/badge/-Server%20Administration-000000?style=flat&logo=server&logoColor=ffffff&labelColor=0078D6) 
+ ![Networking](https://img.shields.io/badge/-Networking-000000?style=flat&logo=network&logoColor=ffffff&labelColor=0078D6) 
+</p>
 
 
 <!---##-----------------------------------------------------  Stats   -----------------------------------------------------##--->
@@ -61,12 +63,12 @@
 
 
 <!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
-<h1 align="center"> Services i provide </h1> <br/>
+<h3 align="center"> Services i provide </h3> <br/>
 
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📘 Services</b></td>
+      <td><b>Services</b></td>
       <td><b>Upwork</b></td>
       <td><b>Fiverr</b></td>
       <td><b>Forum</b></td>
@@ -74,30 +76,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>📝 Magento1 to Magento2 Migration</b></a></td>
       <td><a href="#"><b><img src="https://img.shields.io/badge/-Upwork-1769FF?style=flat&logo=upwork&logoColor=white"/></b></a></td>
       <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Forum-1769FF?style=flat&logo=forum&logoColor=white"/></b></a></td>
     </tr>
   </tbody>
 </table>
