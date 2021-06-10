@@ -32,6 +32,7 @@
 
 
 <!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
+## Services that I provide
 <table>
   <thead align="center">
     <tr border: none;>
@@ -101,6 +102,7 @@
 
 
 <!---##-----------------------------------------------------  Certifications  -----------------------------------------------------##--->
+## Certifications
 <p>
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
@@ -156,7 +158,7 @@ Datacenters              |![Microsoft Azure](https://img.shields.io/badge/-Micro
 <hr>
 
 <!---##-----------------------------------------------------  Favorite Repositories   -----------------------------------------------------##--->
-### Popular Learn Series Repositories below:
+### Learning Series Snippets :
   
 <a href="https://github.com/shuvoaftab/LearnMySQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=LearnMySQL&theme=tokyonight" />
@@ -174,7 +176,7 @@ Datacenters              |![Microsoft Azure](https://img.shields.io/badge/-Micro
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=OOP46&theme=tokyonight" />
 </a>
 
-### Popular Ecommerce Series Repositories below:
+### Ecommerce Repositories :
 
 <a href="https://github.com/shuvoaftab/magento2">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Magento2&theme=tokyonight" />
