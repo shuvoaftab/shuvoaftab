@@ -31,8 +31,8 @@
 
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
 <h1 align="center"> Skills that i focus primarily </h1> <br/>
-![Server Administration](https://img.shields.io/badge/-Server%20Administration-000000?style=flat&logo=server&logoColor=ffffff&labelColor=0078D6) 
-![Networking](https://img.shields.io/badge/-Networking-000000?style=flat&logo=network&logoColor=ffffff&labelColor=0078D6) 
+<a href="#"><img src="https://img.shields.io/badge/-Server Administration-1769FF?style=flat&logo=server&logoColor=white"/>Server</a>
+<a href="#"><img src="https://img.shields.io/badge/-Networking-1769FF?style=flat&logo=network&logoColor=white"/></a>
 
 
 <!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
