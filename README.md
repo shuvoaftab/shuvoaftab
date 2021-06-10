@@ -38,8 +38,8 @@
 
 Property                 | Data  
 -------------------------|------
-Core Languages           |![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
-IDEs                     |<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
+Core Languages           |![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=0078D6) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=ffffff&labelColor=0078D6) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=0078D6) 
+IDEs                     |![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC) 
 Databases                |<img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/> ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
 Frameworks               |<img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/> <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
 Code Repositories        |![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff) 
@@ -65,7 +65,7 @@ Datacenters              |<img src="https://img.shields.io/badge/-OVH%20Cloud-12
 ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
 ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
 
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 
