@@ -23,7 +23,7 @@
 <a href="https://www.facebook.com/ibrahim.ibn.alamgir/"><img src="https://img.shields.io/badge/-Ibrahim Sharif-1877F2?style=flat&logoColor=white&labelColor=6200ea&logo=Facebook"/></a>
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-@ibrahim.ibn.alamgir-E4405F?style=flat&logoColor=white&labelColor=6200ea&logo=Instagram"/></a>
 <a href="https://www.twitter.com/shuvoaftab"><img src="https://img.shields.io/badge/-Ibrahim-00acee?style=flat&logoColor=white&labelColor=6200ea&logo=twitter"/></a>
-<a href="https://www.youtube.com/user/MrIbrahimsharif/"><img src="https://img.shields.io/badge/-Youtube%20Channel-darkred?style=flat&logoColor=white&labelColor=6200ea&logo=youtube"/></a>
+<a href="https://www.youtube.com/user/MrIbrahimsharif/"><img src="https://img.shields.io/badge/-Youtube-darkred?style=flat&logoColor=white&labelColor=6200ea&logo=youtube"/></a>
 <!--a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a-->
 </p>
@@ -45,9 +45,9 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>📝 Magento1 to Magento2 Migration</b></a></td>
-      <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logo=upwork&logoColor=white"/></b></a></td>
-      <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
-      <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-6200ea?style=flat&logo=foursquare&logoColor=white"/></b></a></td>
+      <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=6200ea&logo=upwork"/></b></a></td>
+      <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=6200ea&logo=fiverr"/></b></a></td>
+      <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=6200ea&logo=foursquare"/></b></a></td>
     </tr>
   </tbody>
 </table>
