@@ -29,15 +29,8 @@
 
 <hr>
 
-<!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
-<p align="center"><b> Skills that i focus primarily </b></p> <br/>
-<a href="#"><img src="https://img.shields.io/badge/-Server Administration-blue?style=flat&logo=server&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Networking-red?style=flat&logo=network&logoColor=white"/></a>
-
 
 <!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
-<h3 align="center"> Services i provide </h3> <br/>
-
 <table>
   <thead align="center">
     <tr border: none;>
@@ -57,6 +50,16 @@
   </tbody>
 </table>
 <hr>
+
+
+
+<!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
+<p><b> Focused Skills</b></p> <br/>
+<a href="#"><img src="https://img.shields.io/badge/-Server Administration-blue?style=flat&logo=server&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Networking-red?style=flat&logo=network&logoColor=white"/></a>
+
+<hr>
+
 
 <!---##-----------------------------------------------------  Stats   -----------------------------------------------------##--->
 <p align="center">
