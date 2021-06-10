@@ -14,10 +14,10 @@
 <a href="https://www.linkedin.com/in/ibrahimsharif/"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </h1>
 
-<h1 align="center"> 
+<p align="center"> 
 <a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</h1>
+</p>
 
 <p align="center">
 <a href="https://www.facebook.com/ibrahim.ibn.alamgir/"><img src="https://img.shields.io/badge/-Ibrahim Sharif-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
