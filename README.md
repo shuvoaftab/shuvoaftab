@@ -1,12 +1,21 @@
 <h1 align="center"> Greetings from Ibrahim Sharif <br/>
     <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahim Sharif" />
 </h1>
-
 <p align="center">
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
 </p>
-
 <hr>
+
+
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
+<p align="center">
+<a href="https://github.com/shuvoaftab">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<hr>
+
 
 ## 💻 Languages and Tools:
 
@@ -164,88 +173,14 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 </a>
 <hr>
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/shuvoaftab">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
-<!--a href="https://github.com/Pepyn0/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/Pepyn0/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvoaftab&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a-->
-<hr>
-<!--img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ibrahim Sharif's Github Stats"-->
 
-<!--
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoaftab&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Ibrahim Sharif" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ibrahim Sharif" width="410" /></p>
-
-<br><br><br><br><br>
-<hr>
-
--->
-
-<!--
-## 📘 My top open source projects
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🤝 Forks</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/LaTeX-Gboard-Dictionary?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-     <tr>
-      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-<hr>
--->
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
 <hr>
 
-<!--i>Follow me around the web:</i><br>
-<a href="https://www.linkedin.com/in/ibrahimsharif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/ibrahim.ibn.alamgir" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/ibrahim.ibn.alamgir/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-<a href="https://twitter.com/shuvoaftab" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshuvoaftab"></a>
-<hr-->
 
 <p align="center">
 <a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
