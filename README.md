@@ -15,6 +15,17 @@
 </p>
 <hr>
 
+<p align="center">
+  <a href="https://github.com/shuvoaftab">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab&count_private=true&theme=radical" alt="Ibrahim Sharif" />
+  </a>
+</p>
+<hr>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
+<hr>
+
 
 ## 💻 Languages and Tools:
 
@@ -132,12 +143,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 ## 🔥 My contribution streak
 
-<p align="center">
-  <a href="https://github.com/shuvoaftab">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab&count_private=true&theme=radical" alt="Ibrahim Sharif" />
-  </a>
-</p>
-<hr>
+
 
 ### Popular Learn Series Repositories below:
   
@@ -176,9 +182,7 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 
 
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
-<hr>
+
 
 
 <p align="center">
