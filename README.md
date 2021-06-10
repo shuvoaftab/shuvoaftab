@@ -11,9 +11,12 @@
 <a href="https://www.linkedin.com/in/ibrahimsharif"><img src="https://img.shields.io/badge/-Ibrahim Sharif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 </h1>
 
-<p align="center">
+<h1 align="center"> 
 <a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</h1>
+
+<p align="center">
 <a href="https://www.facebook.com/ibrahim.ibn.alamgir/"><img src="https://img.shields.io/badge/-Ibrahim Sharif-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-@ibrahim.ibn.alamgir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
