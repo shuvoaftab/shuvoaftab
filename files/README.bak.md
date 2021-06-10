@@ -171,16 +171,16 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 </a>
 </p>
 
-<!--a href="https://github.com/Pepyn0/github-readme-stats">
+<a href="https://github.com/Pepyn0/github-readme-stats">
   <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
 </a>
 <a href="https://github.com/Pepyn0/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvoaftab&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a-->
+</a>
 <hr>
-<!--img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ibrahim Sharif's Github Stats"-->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ibrahim Sharif's Github Stats">
 
-<!--
+
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shuvoaftab&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Ibrahim Sharif" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shuvoaftab&show_icons=true&locale=en&theme=chartreuse-dark" alt="Ibrahim Sharif" width="410" /></p>
@@ -188,9 +188,9 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <br><br><br><br><br>
 <hr>
 
--->
 
-<!--
+
+<
 ## 📘 My top open source projects
 
 <table>
@@ -230,20 +230,20 @@ Sunday       91 commits     ███████░░░░░░░░░░�
   </tbody>
 </table>
 <hr>
--->
+
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
 <hr>
 
-<!--i>Follow me around the web:</i><br>
+<i>Follow me around the web:</i><br>
 <a href="https://www.linkedin.com/in/ibrahimsharif" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/ibrahim.ibn.alamgir/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 <a href="https://twitter.com/shuvoaftab" target="_blank"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fshuvoaftab"></a>
-<hr-->
+<hr>
 
 <p align="center">
 <a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
