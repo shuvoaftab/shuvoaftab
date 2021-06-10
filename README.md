@@ -1,7 +1,7 @@
 <!---##-----------------------------------------------------  Introduction    -----------------------------------------------------##--->
 
 <h1 align="center">❤ Peace be upon you ❤<br/>
-    <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
+    <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat&logoColor=white&labelColor=33691e&logo=upwork" alt="Ibrahim Sharif" />
 </h1>
 <p align="center">
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
