@@ -33,7 +33,7 @@
 <h1 align="center"> Skills that i focus primarily </h1> <br/>
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-000000?style=flat&logo=server&logoColor=ffffff&labelColor=0078D6) 
 ![Networking](https://img.shields.io/badge/-Networking-000000?style=flat&logo=network&logoColor=ffffff&labelColor=0078D6) 
-</p>
+
 
 <!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
 <h3 align="center"> Services i provide </h3> <br/>
@@ -41,10 +41,10 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td width="55%"><b>Services</b></td>
-      <td width="15%"><b>Upwork</b></td>
-      <td width="15%"><b>Fiverr</b></td>
-      <td width="15%"><b>Forum</b></td>
+      <td><b>Services</b></td>
+      <td><b>Upwork</b></td>
+      <td><b>Fiverr</b></td>
+      <td><b>Forum</b></td>
     </tr>
   </thead>
   <tbody>
