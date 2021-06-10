@@ -1,8 +1,7 @@
 <!---##-----------------------------------------------------  Introduction    -----------------------------------------------------##--->
 
-<h1 align="center"> Greetings from Ibrahim Sharif <br/>
-    <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Notices&color=red&style=flat" alt="Ibrahim Sharif" />
-    <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Notices&color=red&style=plastic" alt="Ibrahim Sharif" />
+<h1 align="center">❤ Peace be upon you ❤<br/>
+    <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Notices&color=d50000&style=for-the-badge" alt="Ibrahim Sharif" />
 </h1>
 <p align="center">
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
