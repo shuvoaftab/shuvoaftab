@@ -9,9 +9,9 @@
 
 <!---##-----------------------------------------------------  Badge Links    -----------------------------------------------------##--->
 <h1 align="center"> 
-<a href="#"><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat-square&logo=fiverr&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/ibrahimsharif"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white"/></a>
+<a href="https://www.fiverr.com/shuvoaftab/"><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat-square&logo=fiverr&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/ibrahimsharif/"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </h1>
 
 <h1 align="center"> 
