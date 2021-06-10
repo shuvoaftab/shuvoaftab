@@ -13,11 +13,11 @@
 <a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
 </p>
-<p align="center"> 
+<h1 align="center"> 
 <a href="#"><img src="https://img.shields.io/badge/-Upwork-1769FF?style=flat&logo=upwork&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/ibrahimsharif"><img src="https://img.shields.io/badge/-Ibrahim Sharif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
+</h1>
 <hr>
 
 
