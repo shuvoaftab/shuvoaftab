@@ -50,66 +50,46 @@ Property                 | Data
 Core Languages           |![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c&logoColor=ffffff&labelColor=0078D6) ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=ffffff&labelColor=0078D6) ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=FFA518&labelColor=0078D6) ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&labelColor=0078D6&logoColor=ffffff) ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&logoColor=ffffff&labelColor=0078D6) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript&logoColor=ffffff&labelColor=0078D6) 
 IDEs                     |![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC) ![CodeBlocks](https://img.shields.io/badge/-CodeBlocks-000000?style=flat&logo=CodeBlocks&logoColor=ffffff&labelColor=0078D6) ![NetBeans](https://img.shields.io/badge/-NetBeans-000000?style=flat&logo=NetBeans&logoColor=ffffff&labelColor=0078D6) ![Arduino](https://img.shields.io/badge/-Arduino-000000?style=flat&logo=Arduino&logoColor=ffffff&labelColor=0078D6) ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000000?style=flat&logo=androidstudio&logoColor=ffffff&labelColor=0078D6) ![PHP Storm](https://img.shields.io/badge/-PHP%20Storm-000000?style=flat&logo=phpstorm&logoColor=ffffff&labelColor=0078D6) ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-000000?style=flat&logo=intellij-idea&logoColor=ffffff&labelColor=0078D6) ![Atom](https://img.shields.io/badge/-Atom-000000?style=flat&logo=atom&logoColor=ffffff&labelColor=0078D6) ![Sublime](https://img.shields.io/badge/-Sublime-000000?style=flat&logo=Sublime&logoColor=ffffff&labelColor=0078D6) ![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat&logo=WebStorm&logoColor=ffffff&labelColor=0078D6) ![Eclipse](https://img.shields.io/badge/-Eclipse-000000?style=flat&logo=Eclipse&logoColor=ffffff&labelColor=0078D6) ![Notepad++](https://img.shields.io/badge/-Notepad++-000000?style=flat&logo=Notepad++&logoColor=ffffff&labelColor=0078D6) ![MySQL Workbench](https://img.shields.io/badge/-MySQL%20Workbench-000000?style=flat&logo=MySQL-Workbench&logoColor=ffffff&labelColor=0078D6) 
 Databases                |![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL&logoColor=ffffff&labelColor=0078D6)  ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=ffffff&labelColor=0078D6) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=PostgreSQL&logoColor=ffffff&labelColor=0078D6)  ![MariaDB](https://img.shields.io/badge/-MariaDB-000000?style=flat&logo=MariaDB&logoColor=ffffff&labelColor=0078D6)  ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=Firebase&logoColor=ffffff&labelColor=0078D6)  
-Frameworks               |![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=Laravel&logoColor=ffffff&labelColor=0078D6) ![Lumen](https://img.shields.io/badge/-Lumen-000000?style=flat&logo=Lumen&logoColor=ffffff&labelColor=0078D6) ![Code Igniter](https://img.shields.io/badge/-Code%20Igniter-000000?style=flat&logo=Code-Igniter&logoColor=ffffff&labelColor=0078D6) 
+Frameworks               |![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=Laravel&logoColor=ffffff&labelColor=0078D6) ![Lumen](https://img.shields.io/badge/-Lumen-000000?style=flat&logo=Lumen&logoColor=ffffff&labelColor=0078D6) ![Code Igniter](https://img.shields.io/badge/-Code%20Igniter-000000?style=flat&logo=Code-Igniter&logoColor=ffffff&labelColor=0078D6) ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff) 
 Code Repositories        |![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff) ![AWS CodeCommit](https://img.shields.io/badge/-AWS%20CodeCommit-000000?style=flat&logo=codecommit&logoColor=ffffff&labelColor=0078D6) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000000?style=flat&logo=Bitbucket&logoColor=ffffff&labelColor=0078D6) ![Beanstalk](https://img.shields.io/badge/-Beanstalk-000000?style=flat&logo=Beanstalk&logoColor=ffffff&labelColor=0078D6) ![Codebase](https://img.shields.io/badge/-Codebase-000000?style=flat&logo=Codebase&logoColor=ffffff&labelColor=0078D6) ![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=Gitlab&logoColor=ffffff&labelColor=0078D6) ![SourceForge](https://img.shields.io/badge/-SourceForge-000000?style=flat&logo=SourceForge&logoColor=ffffff&labelColor=0078D6) 
 Ecommerce                |![Magento](https://img.shields.io/badge/-Magento-000000?style=flat&logo=Magento&logoColor=ffffff&labelColor=0078D6) ![Shopify](https://img.shields.io/badge/-Shopify-000000?style=flat&logo=Shopify&logoColor=ffffff&labelColor=0078D6)  ![WooCommerce](https://img.shields.io/badge/-WooCommerce-000000?style=flat&logo=WooCommerce&logoColor=ffffff&labelColor=0078D6) ![OpenCart](https://img.shields.io/badge/-OpenCart-000000?style=flat&logo=OpenCart&logoColor=ffffff&labelColor=0078D6) ![PrestaShop](https://img.shields.io/badge/-PrestaShop-000000?style=flat&logo=PrestaShop&logoColor=ffffff&labelColor=0078D6) ![BigCommerce](https://img.shields.io/badge/-BigCommerce-000000?style=flat&logo=BigCommerce&logoColor=ffffff&labelColor=0078D6) ![LaraCommerce](https://img.shields.io/badge/-LaraCommerce-000000?style=flat&logo=LaraCommerce&logoColor=ffffff&labelColor=0078D6)
 Operating Systems        |![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6) ![CentOS](https://img.shields.io/badge/-CentOS-000000?style=flat&logo=centos&logoColor=ffffff&labelColor=0078D6) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu&logoColor=ffffff&labelColor=0078D6) ![Debian](https://img.shields.io/badge/-Debian-000000?style=flat&logo=debian&logoColor=ffffff&labelColor=0078D6) ![Fedora](https://img.shields.io/badge/-Fedora-000000?style=flat&logo=fedora&logoColor=ffffff&labelColor=0078D6) ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android&logoColor=ffffff&labelColor=0078D6) 
 Security                 |![SSH](https://img.shields.io/badge/-SSH-000000?style=flat&logo=ssh&logoColor=ffffff&labelColor=0078D6) ![SSL](https://img.shields.io/badge/-SSL-000000?style=flat&logo=ssl&logoColor=ffffff&labelColor=0078D6) ![TLS](https://img.shields.io/badge/-TLS-000000?style=flat&logo=tls&logoColor=ffffff&labelColor=0078D6) ![SPF](https://img.shields.io/badge/-SPF-000000?style=flat&logo=spf&logoColor=ffffff&labelColor=0078D6) ![DKIM](https://img.shields.io/badge/-DKIM-000000?style=flat&logo=dkim&logoColor=ffffff&labelColor=0078D6)  ![DMARC](https://img.shields.io/badge/-DMARC-000000?style=flat&logo=dmarc&logoColor=ffffff&labelColor=0078D6) 
-Web Components           |![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB) ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff) 
-Graphics                 |
+Web Components           |![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) ![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699) ![Bootstrap5](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C) ![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB) ![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff) ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown) ![WebPack](https://img.shields.io/badge/-WebPack-05122A?style=flat&logo=webpack)
+Javascripts              |![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000) ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Nodejs) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff) ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000) ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff) ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3) ![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&logo=vuejs&labelColor=4B32C3)
+Graphics                 |![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop) ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) 
 Web Servers              |<img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
 Datacenters              |<img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/> <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
 
 
-## 💻 Languages and Tools:
 
-
-
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
-![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-
-
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
-
-<hr>
 
 <p>
-    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
+
     <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
+  
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
     <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
+  
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
   <hr>
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+
 
 ![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+
+\
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
+
 <hr>
 
 ## Profile
