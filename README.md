@@ -15,8 +15,8 @@
 </h1>
 
 <p align="center"> 
-<a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logoColor=white&labelColor=6200ea&logo=Google-Chrome"/></a>
+<a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logoColor=white&labelColor=6200ea&logo=Gmail"/></a>
 </p>
 
 <p align="center">
