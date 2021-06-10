@@ -59,7 +59,7 @@
 ![Networking](https://img.shields.io/badge/-Networking-darkblue?style=flat&logoColor=white&labelColor=0078D6&logo=network)
 ![Web Development](https://img.shields.io/badge/-Web%20Development-darkred?style=flat&logoColor=white&labelColor=0078D6&logo=network)
 ![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-darkblue?style=flat&logoColor=white&labelColor=0078D6&logo=network)
-![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-darkred?style=flat&logoColor=white&labelColor=0078D6&logo=network)
+![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-darkred?style=flat&logoColor=white&labelColor=darkgreen&logo=network)
 <hr>
 
 
