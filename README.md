@@ -29,6 +29,11 @@
 
 <hr>
 
+<!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
+<h1 align="center"> Skills that i focus primarily </h1> <br/>
+<p> Server Administration </p>
+<p> Networking </p>
+
 
 <!---##-----------------------------------------------------  Stats   -----------------------------------------------------##--->
 <p align="center">
@@ -54,6 +59,49 @@
 <img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
 <hr>
 
+
+<!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
+<h1 align="center"> Services i provide </h1> <br/>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📘 Services</b></td>
+      <td><b>Upwork</b></td>
+      <td><b>Fiverr</b></td>
+      <td><b>Forum</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>LaTeX-Gboard-Dictionary</b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Upwork-1769FF?style=flat&logo=upwork&logoColor=white"/></b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/github-readme-streak-stats"><b>GitHub Readme Streak Stats</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-streak-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/DenverCoder1/github-readme-youtube-stats"><b>GitHub Readme YouTube Stats</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/github-readme-youtube-stats?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/unicode-formatter"><b>Unicode Formatter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/unicode-formatter?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/Unedit-for-Reddit"><b>Unedit for Reddit</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DenverCoder1/Unedit-for-Reddit?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<hr>
 
 <!---##-----------------------------------------------------  Topic Based Experiences    -----------------------------------------------------##--->
 
