@@ -30,9 +30,9 @@
 <hr>
 
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
-<h1 align="center"> Skills that i focus primarily </h1> <br/>
-<a href="#"><img src="https://img.shields.io/badge/-Server Administration-1769FF?style=flat&logo=server&logoColor=white"/>Server</a>
-<a href="#"><img src="https://img.shields.io/badge/-Networking-1769FF?style=flat&logo=network&logoColor=white"/></a>
+<p align="center"><b> Skills that i focus primarily </b></p> <br/>
+<a href="#"><img src="https://img.shields.io/badge/-Server Administration-blue?style=flat&logo=server&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Networking-red?style=flat&logo=network&logoColor=white"/></a>
 
 
 <!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
