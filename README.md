@@ -43,9 +43,9 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>📝 Magento1 to Magento2 Migration</b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Upwork-1769FF?style=flat&logo=upwork&logoColor=white"/></b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Forum-1769FF?style=flat&logo=forum&logoColor=white"/></b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logo=upwork&logoColor=white"/></b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Forum-6200ea?style=flat&logo=forum&logoColor=white"/></b></a></td>
     </tr>
   </tbody>
 </table>
