@@ -61,9 +61,7 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 Graphics                 |![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop) ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign) 
 Web Servers              |<img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
 Data Analysis            |[![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=Elasticsearch&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Logstash Badge](https://img.shields.io/badge/-Logstash-000000?style=flat&logo=Logstash&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Kibana Badge](https://img.shields.io/badge/-Kibana-000000?style=flat&logo=Kibana&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) 
-Datacenters              |![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=Microsoft-Azure&logoColor=ffffff&labelColor=0078D6) 
-![OVH Cloud](https://img.shields.io/badge/-OVH%20Cloud-000000?style=flat&logo=OVH&logoColor=ffffff&labelColor=0078D6) 
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=Google%20Cloud&logoColor=ffffff&labelColor=0078D6) 
+Datacenters              |![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=Microsoft-Azure&logoColor=ffffff&labelColor=0078D6) ![OVH Cloud](https://img.shields.io/badge/-OVH%20Cloud-000000?style=flat&logo=OVH&logoColor=ffffff&labelColor=0078D6) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=Google%20Cloud&logoColor=ffffff&labelColor=0078D6) 
 
 
 
