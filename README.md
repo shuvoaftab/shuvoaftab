@@ -15,15 +15,15 @@
 </h1>
 
 <p align="center"> 
-<a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logoColor=white&labelColor=6200ea&logo=Google-Chrome"/></a>
-<a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logoColor=white&labelColor=6200ea&logo=Gmail"/></a>
+<a href="https://ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logoColor=white&labelColor=6200ea&logo=Google-Chrome"/></a>
+<a href="mailto:contact@ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logoColor=white&labelColor=6200ea&logo=Gmail"/></a>
 </p>
 
 <p align="center">
-<a href="https://www.facebook.com/ibrahim.ibn.alamgir/"><img src="https://img.shields.io/badge/-Ibrahim Sharif-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-@ibrahim.ibn.alamgir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.twitter.com/shuvoaftab"><img src="https://img.shields.io/badge/-Ibrahim-00acee?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.youtube.com/user/MrIbrahimsharif/"><img src="https://img.shields.io/badge/-Youtube%20Channel-darkred?style=flat&logo=youtube&logoColor=white"/></a>
+<a href="https://www.facebook.com/ibrahim.ibn.alamgir/"><img src="https://img.shields.io/badge/-Ibrahim Sharif-1877F2?style=flat&logoColor=white&labelColor=6200ea&logo=Facebook"/></a>
+<a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-@ibrahim.ibn.alamgir-E4405F?style=flat&logoColor=white&labelColor=6200ea&logo=Instagram"/></a>
+<a href="https://www.twitter.com/shuvoaftab"><img src="https://img.shields.io/badge/-Ibrahim-00acee?style=flat&logoColor=white&labelColor=6200ea&logo=twitter"/></a>
+<a href="https://www.youtube.com/user/MrIbrahimsharif/"><img src="https://img.shields.io/badge/-Youtube%20Channel-darkred?style=flat&logoColor=white&labelColor=6200ea&logo=youtube"/></a>
 <!--a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a-->
 </p>
