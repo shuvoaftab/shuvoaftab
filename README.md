@@ -54,7 +54,7 @@
 
 
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
-<p><b> Focused Skills</b></p> <br/>
+<b>Focused Skills</b> <br/>
 <a href="#">🖧 Networking</a> <a href="#">🖳 Server Administration</a>
 
 
