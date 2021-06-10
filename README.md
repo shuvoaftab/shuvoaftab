@@ -9,28 +9,30 @@
 
 <!---##-----------------------------------------------------  Badge Links    -----------------------------------------------------##--->
 <h1 align="center"> 
-<a href="#"><img src="https://img.shields.io/badge/-Upwork-1769FF?style=flat&logo=upwork&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/ibrahimsharif"><img src="https://img.shields.io/badge/-Ibrahim Sharif-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="https://www.fiverr.com/shuvoaftab/"><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/ibrahimsharif/"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </h1>
 
-<h1 align="center"> 
-<a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</h1>
+<p align="center"> 
+<a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
 <p align="center">
 <a href="https://www.facebook.com/ibrahim.ibn.alamgir/"><img src="https://img.shields.io/badge/-Ibrahim Sharif-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-@ibrahim.ibn.alamgir-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.twitter.com/shuvoaftab"><img src="https://img.shields.io/badge/-Ibrahim-00acee?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+<a href="https://www.youtube.com/user/MrIbrahimsharif/"><img src="https://img.shields.io/badge/-Youtube%20Channel-darkred?style=flat&logo=youtube&logoColor=white"/></a>
+<!--a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a-->
 </p>
 
 <hr>
 
 
 <!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
+## Services that I provide
 <table>
   <thead align="center">
     <tr border: none;>
@@ -43,23 +45,70 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>📝 Magento1 to Magento2 Migration</b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Upwork-1769FF?style=flat&logo=upwork&logoColor=white"/></b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Forum-1769FF?style=flat&logo=forum&logoColor=white"/></b></a></td>
+      <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logo=upwork&logoColor=white"/></b></a></td>
+      <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
+      <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-6200ea?style=flat&logo=foursquare&logoColor=white"/></b></a></td>
     </tr>
   </tbody>
 </table>
 <hr>
 
 
+<!---##-----------------------------------------------------  Portfolio    -----------------------------------------------------##--->
+## Portfolio
+<details>
+<summary>
+  Ecommerce Migration
+</summary>
 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+</p>    
+</details>
+
+<details>
+<summary>
+  Website Migration
+</summary>
+
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+</p>    
+</details>
+
+<details>
+<summary>
+  Server Migration
+</summary>
+
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+</p>    
+</details>
+
+<hr>    
+    
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
-<b>Focused Skills</b> <br/>
-![Server](https://img.shields.io/badge/-Server-1769FF?style=flat&logoColor=white&labelColor=0078D6&logo=data:image/svg%2bxml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJzZXJ2ZXIiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1zZXJ2ZXIgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00ODAgMTYwSDMyYy0xNy42NzMgMC0zMi0xNC4zMjctMzItMzJWNjRjMC0xNy42NzMgMTQuMzI3LTMyIDMyLTMyaDQ0OGMxNy42NzMgMCAzMiAxNC4zMjcgMzIgMzJ2NjRjMCAxNy42NzMtMTQuMzI3IDMyLTMyIDMyem0tNDgtODhjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHptLTY0IDBjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHptMTEyIDI0OEgzMmMtMTcuNjczIDAtMzItMTQuMzI3LTMyLTMydi02NGMwLTE3LjY3MyAxNC4zMjctMzIgMzItMzJoNDQ4YzE3LjY3MyAwIDMyIDE0LjMyNyAzMiAzMnY2NGMwIDE3LjY3My0xNC4zMjcgMzItMzIgMzJ6bS00OC04OGMtMTMuMjU1IDAtMjQgMTAuNzQ1LTI0IDI0czEwLjc0NSAyNCAyNCAyNCAyNC0xMC43NDUgMjQtMjQtMTAuNzQ1LTI0LTI0LTI0em0tNjQgMGMtMTMuMjU1IDAtMjQgMTAuNzQ1LTI0IDI0czEwLjc0NSAyNCAyNCAyNCAyNC0xMC43NDUgMjQtMjQtMTAuNzQ1LTI0LTI0LTI0em0xMTIgMjQ4SDMyYy0xNy42NzMgMC0zMi0xNC4zMjctMzItMzJ2LTY0YzAtMTcuNjczIDE0LjMyNy0zMiAzMi0zMmg0NDhjMTcuNjczIDAgMzIgMTQuMzI3IDMyIDMydjY0YzAgMTcuNjczLTE0LjMyNyAzMi0zMiAzMnptLTQ4LTg4Yy0xMy4yNTUgMC0yNCAxMC43NDUtMjQgMjRzMTAuNzQ1IDI0IDI0IDI0IDI0LTEwLjc0NSAyNC0yNC0xMC43NDUtMjQtMjQtMjR6bS02NCAwYy0xMy4yNTUgMC0yNCAxMC43NDUtMjQgMjRzMTAuNzQ1IDI0IDI0IDI0IDI0LTEwLjc0NSAyNC0yNC0xMC43NDUtMjQtMjQtMjR6Ij48L3BhdGg+PC9zdmc+)
-
-
+## Focused Skills
+![Server](https://img.shields.io/badge/-Server%20Administration-darkred?style=flat&logoColor=white&labelColor=0078D6&logo=data:image/svg%2bxml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJzZXJ2ZXIiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1zZXJ2ZXIgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00ODAgMTYwSDMyYy0xNy42NzMgMC0zMi0xNC4zMjctMzItMzJWNjRjMC0xNy42NzMgMTQuMzI3LTMyIDMyLTMyaDQ0OGMxNy42NzMgMCAzMiAxNC4zMjcgMzIgMzJ2NjRjMCAxNy42NzMtMTQuMzI3IDMyLTMyIDMyem0tNDgtODhjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHptLTY0IDBjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHptMTEyIDI0OEgzMmMtMTcuNjczIDAtMzItMTQuMzI3LTMyLTMydi02NGMwLTE3LjY3MyAxNC4zMjctMzIgMzItMzJoNDQ4YzE3LjY3MyAwIDMyIDE0LjMyNyAzMiAzMnY2NGMwIDE3LjY3My0xNC4zMjcgMzItMzIgMzJ6bS00OC04OGMtMTMuMjU1IDAtMjQgMTAuNzQ1LTI0IDI0czEwLjc0NSAyNCAyNCAyNCAyNC0xMC43NDUgMjQtMjQtMTAuNzQ1LTI0LTI0LTI0em0tNjQgMGMtMTMuMjU1IDAtMjQgMTAuNzQ1LTI0IDI0czEwLjc0NSAyNCAyNCAyNCAyNC0xMC43NDUgMjQtMjQtMTAuNzQ1LTI0LTI0LTI0em0xMTIgMjQ4SDMyYy0xNy42NzMgMC0zMi0xNC4zMjctMzItMzJ2LTY0YzAtMTcuNjczIDE0LjMyNy0zMiAzMi0zMmg0NDhjMTcuNjczIDAgMzIgMTQuMzI3IDMyIDMydjY0YzAgMTcuNjczLTE0LjMyNyAzMi0zMiAzMnptLTQ4LTg4Yy0xMy4yNTUgMC0yNCAxMC43NDUtMjQgMjRzMTAuNzQ1IDI0IDI0IDI0IDI0LTEwLjc0NSAyNC0yNC0xMC43NDUtMjQtMjQtMjR6bS02NCAwYy0xMy4yNTUgMC0yNCAxMC43NDUtMjQgMjRzMTAuNzQ1IDI0IDI0IDI0IDI0LTEwLjc0NSAyNC0yNC0xMC43NDUtMjQtMjQtMjR6Ij48L3BhdGg+PC9zdmc+)
+![Networking](https://img.shields.io/badge/-Networking-darkblue?style=flat&logoColor=white&labelColor=0078D6&logo=network)
+![Web Development](https://img.shields.io/badge/-Web%20Development-darkred?style=flat&logoColor=white&labelColor=blue&logo=network)
+![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-darkblue?style=flat&logoColor=white&labelColor=blue&logo=network)
+![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-darkred?style=flat&logoColor=white&labelColor=blue&logo=network)
 <hr>
 
+
+<!---##-----------------------------------------------------  Certifications  -----------------------------------------------------##--->
+## Certifications
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+</p>
+
+<hr>
 
 <!---##-----------------------------------------------------  Stats   -----------------------------------------------------##--->
 <p align="center">
@@ -104,12 +153,12 @@ Graphics                 |![Illustrator](https://img.shields.io/badge/-Illustrat
 Web Servers              |![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache&logoColor=ffffff&labelColor=0078D6) ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX&logoColor=ffffff&labelColor=0078D6) ![Varnish](https://img.shields.io/badge/-Varnish-000000?style=flat&logo=Varnish&logoColor=ffffff&labelColor=0078D6) ![Litespeed](https://img.shields.io/badge/-Litespeed-000000?style=flat&logo=Litespeed&logoColor=ffffff&labelColor=0078D6)  ![Postfix](https://img.shields.io/badge/-Postfix-000000?style=flat&logo=postfix&logoColor=ffffff&labelColor=0078D6) ![Dovecot](https://img.shields.io/badge/-Dovecot-000000?style=flat&logo=dovecot&logoColor=ffffff&labelColor=0078D6) ![Roundcube](https://img.shields.io/badge/-Roundcube-000000?style=flat&logo=Roundcube&logoColor=ffffff&labelColor=0078D6) 
 Email Marketing          |![PowerMTA](https://img.shields.io/badge/-PowerMTA-000000?style=flat&logo=PowerMTA&logoColor=ffffff&labelColor=0078D6) ![Postal](https://img.shields.io/badge/-Postal-000000?style=flat&logo=Postal&logoColor=ffffff&labelColor=0078D6) ![Mumara](https://img.shields.io/badge/-Mumara-000000?style=flat&logo=Mumara&logoColor=ffffff&labelColor=0078D6) ![Mailwizz](https://img.shields.io/badge/-Mailwizz-000000?style=flat&logo=Mailwizz&logoColor=ffffff&labelColor=0078D6) ![Acelle](https://img.shields.io/badge/-Acelle-000000?style=flat&logo=Acelle&logoColor=ffffff&labelColor=0078D6) ![Interspire](https://img.shields.io/badge/-Interspire-000000?style=flat&logo=Interspire&logoColor=ffffff&labelColor=0078D6) ![Sendy](https://img.shields.io/badge/-Sendy-000000?style=flat&logo=Sendy&logoColor=ffffff&labelColor=0078D6) ![Mailchimp](https://img.shields.io/badge/-Mailchimp-000000?style=flat&logo=Mailchimp&logoColor=ffffff&labelColor=0078D6) ![Sendgrid](https://img.shields.io/badge/-Sendgrid-000000?style=flat&logo=Sendgrid&logoColor=ffffff&labelColor=0078D6) ![AWS SES](https://img.shields.io/badge/-AWS%20SES-000000?style=flat&logo=AWS%20SES&logoColor=ffffff&labelColor=0078D6) ![DirectMail](https://img.shields.io/badge/-DirectMail-000000?style=flat&logo=DirectMail&logoColor=ffffff&labelColor=0078D6) 
 Data Analysis            |[![Elasticsearch Badge](https://img.shields.io/badge/-Elasticsearch-000000?style=flat&logo=Elasticsearch&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Logstash Badge](https://img.shields.io/badge/-Logstash-000000?style=flat&logo=Logstash&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) [![Kibana Badge](https://img.shields.io/badge/-Kibana-000000?style=flat&logo=Kibana&logoColor=white)](https://github.com/search?q=user%3Azmcx16&type=Repositories) 
-Datacenters              |![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=Microsoft-Azure&logoColor=ffffff&labelColor=0078D6) ![OVH Cloud](https://img.shields.io/badge/-OVH%20Cloud-000000?style=flat&logo=OVH&logoColor=ffffff&labelColor=0078D6) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=Google%20Cloud&logoColor=ffffff&labelColor=0078D6) ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-000000?style=flat&logo=aws&logoColor=ffffff&labelColor=0078D6) ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-000000?style=flat&logo=Alibaba%20Cloud&logoColor=ffffff&labelColor=0078D6) ![Namecheap](https://img.shields.io/badge/-Namecheap-000000?style=flat&logo=Namecheap&logoColor=ffffff&labelColor=0078D6) ![Godaddy](https://img.shields.io/badge/-Godaddy-000000?style=flat&logo=Godaddy&logoColor=ffffff&labelColor=0078D6) ![Webdock](https://img.shields.io/badge/-Webdock-000000?style=flat&logo=Webdock&logoColor=ffffff&labelColor=0078D6) ![Contabo](https://img.shields.io/badge/-Contabo-000000?style=flat&logo=Contabo&logoColor=ffffff&labelColor=0078D6) ![VPSDime](https://img.shields.io/badge/-VPSDime-000000?style=flat&logo=VPSDime&logoColor=ffffff&labelColor=0078D6) ![SSDNodes](https://img.shields.io/badge/-SSDNodes-000000?style=flat&logo=SSDNodes&logoColor=ffffff&labelColor=0078D6) ![Kimsufi](https://img.shields.io/badge/-Kimsufi-000000?style=flat&logo=Kimsufi&logoColor=ffffff&labelColor=0078D6) ![Scaleway](https://img.shields.io/badge/-Scaleway-000000?style=flat&logo=Scaleway&logoColor=ffffff&labelColor=0078D6) 
+Datacenters              |![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=Microsoft-Azure&logoColor=ffffff&labelColor=0078D6) ![OVH Cloud](https://img.shields.io/badge/-OVH%20Cloud-000000?style=flat&logo=OVH&logoColor=ffffff&labelColor=0078D6) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=Google%20Cloud&logoColor=ffffff&labelColor=0078D6) ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-000000?style=flat&logo=amazon-aws&logoColor=ffffff&labelColor=0078D6) ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-000000?style=flat&logo=Alibaba%20Cloud&logoColor=ffffff&labelColor=0078D6) ![Namecheap](https://img.shields.io/badge/-Namecheap-000000?style=flat&logo=Namecheap&logoColor=ffffff&labelColor=0078D6) ![Godaddy](https://img.shields.io/badge/-Godaddy-000000?style=flat&logo=Godaddy&logoColor=ffffff&labelColor=0078D6) ![Webdock](https://img.shields.io/badge/-Webdock-000000?style=flat&logo=Webdock&logoColor=ffffff&labelColor=0078D6) ![Contabo](https://img.shields.io/badge/-Contabo-000000?style=flat&logo=Contabo&logoColor=ffffff&labelColor=0078D6) ![VPSDime](https://img.shields.io/badge/-VPSDime-000000?style=flat&logo=VPSDime&logoColor=ffffff&labelColor=0078D6) ![SSDNodes](https://img.shields.io/badge/-SSDNodes-000000?style=flat&logo=SSDNodes&logoColor=ffffff&labelColor=0078D6) ![Kimsufi](https://img.shields.io/badge/-Kimsufi-000000?style=flat&logo=Kimsufi&logoColor=ffffff&labelColor=0078D6) ![Scaleway](https://img.shields.io/badge/-Scaleway-000000?style=flat&logo=Scaleway&logoColor=ffffff&labelColor=0078D6) 
 
 <hr>
 
 <!---##-----------------------------------------------------  Favorite Repositories   -----------------------------------------------------##--->
-### Popular Learn Series Repositories below:
+### Learning Series Snippets :
   
 <a href="https://github.com/shuvoaftab/LearnMySQL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=LearnMySQL&theme=tokyonight" />
@@ -127,7 +176,7 @@ Datacenters              |![Microsoft Azure](https://img.shields.io/badge/-Micro
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=OOP46&theme=tokyonight" />
 </a>
 
-### Popular Ecommerce Series Repositories below:
+### Ecommerce Repositories :
 
 <a href="https://github.com/shuvoaftab/magento2">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Magento2&theme=tokyonight" />
