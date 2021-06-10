@@ -9,14 +9,14 @@
 
 <!---##-----------------------------------------------------  Badge Links    -----------------------------------------------------##--->
 <h1 align="center"> 
-<a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat-square&logo=upwork&logoColor=white"/></a>
-<a href="https://www.fiverr.com/shuvoaftab/"><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat-square&logo=fiverr&logoColor=white"/></a> 
-<a href="https://www.linkedin.com/in/ibrahimsharif/"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+<a href="https://www.fiverr.com/shuvoaftab/"><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/ibrahimsharif/"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 </h1>
 
 <h1 align="center"> 
-<a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://ibrahimsharif.com"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:contact@ibrahimsharif.com"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </h1>
 
 <p align="center">
