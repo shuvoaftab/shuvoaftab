@@ -55,8 +55,8 @@
 
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
 <p><b> Focused Skills</b></p> <br/>
-<a href="#"><img src="https://img.shields.io/badge/-Server Administration-blue?style=flat&logo=server&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Networking-red?style=flat&logo=network&logoColor=white"/></a>
+<a href="#">🖧 Networking</a> <a href="#">🖳 Server Administration</a>
+
 
 <hr>
 
