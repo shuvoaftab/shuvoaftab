@@ -65,7 +65,7 @@
 
 <!---##-----------------------------------------------------  Certifications  -----------------------------------------------------##--->
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
-
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
 <hr>
 
 <!---##-----------------------------------------------------  Stats   -----------------------------------------------------##--->
