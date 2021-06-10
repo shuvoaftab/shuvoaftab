@@ -63,6 +63,11 @@
 <hr>
 
 
+<!---##-----------------------------------------------------  Certifications  -----------------------------------------------------##--->
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+
+<hr>
+
 <!---##-----------------------------------------------------  Stats   -----------------------------------------------------##--->
 <p align="center">
 <a href="https://github.com/shuvoaftab">
