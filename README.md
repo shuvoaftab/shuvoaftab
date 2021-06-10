@@ -1,4 +1,4 @@
-<h1 align="center"> Greeting from Ibrahim Sharif <br/>
+<h1 align="center"> Greetings from Ibrahim Sharif <br/>
     <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Profile%20views&color=0e75b6&style=flat" alt="Ibrahim Sharif" />
 </h1>
 
