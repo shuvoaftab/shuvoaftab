@@ -7,7 +7,6 @@
 <hr>
 
 
-### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
 <p align="center">
 <a href="https://github.com/shuvoaftab">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
