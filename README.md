@@ -62,8 +62,7 @@
 </summary>
 
 <p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/ecommerce/Screenshot_8.png" alt="Magento2" />
 </p>    
 </details>
 
@@ -73,8 +72,7 @@
 </summary>
 
 <p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/website/henrygo.png" alt="Website Migration" />
 </p>    
 </details>
 
@@ -84,8 +82,27 @@
 </summary>
 
 <p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/server/startinboxing.png" alt="Server Migration" />
+</p>    
+</details>
+
+<details>
+<summary>
+ Email Marketing Application
+</summary>
+
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/rowndelivery.png" alt="Mailwizz" />
+</p>    
+</details>
+
+<details>
+<summary>
+ cPanel Email Troubleshooting
+</summary>
+
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
 </p>    
 </details>
 
