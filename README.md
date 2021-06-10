@@ -31,11 +31,32 @@
 
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
 <h1 align="center"> Skills that i focus primarily </h1> <br/>
-<p>
- ![Server Administration](https://img.shields.io/badge/-Server%20Administration-000000?style=flat&logo=server&logoColor=ffffff&labelColor=0078D6) 
- ![Networking](https://img.shields.io/badge/-Networking-000000?style=flat&logo=network&logoColor=ffffff&labelColor=0078D6) 
+![Server Administration](https://img.shields.io/badge/-Server%20Administration-000000?style=flat&logo=server&logoColor=ffffff&labelColor=0078D6) 
+![Networking](https://img.shields.io/badge/-Networking-000000?style=flat&logo=network&logoColor=ffffff&labelColor=0078D6) 
 </p>
 
+<!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
+<h3 align="center"> Services i provide </h3> <br/>
+
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td width="55%"><b>Services</b></td>
+      <td width="15%"><b>Upwork</b></td>
+      <td width="15%"><b>Fiverr</b></td>
+      <td width="15%"><b>Forum</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>📝 Magento1 to Magento2 Migration</b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Upwork-1769FF?style=flat&logo=upwork&logoColor=white"/></b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
+      <td><a href="#"><b><img src="https://img.shields.io/badge/-Forum-1769FF?style=flat&logo=forum&logoColor=white"/></b></a></td>
+    </tr>
+  </tbody>
+</table>
+<hr>
 
 <!---##-----------------------------------------------------  Stats   -----------------------------------------------------##--->
 <p align="center">
@@ -61,29 +82,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
 <hr>
 
-
-<!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
-<h3 align="center"> Services i provide </h3> <br/>
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>Services</b></td>
-      <td><b>Upwork</b></td>
-      <td><b>Fiverr</b></td>
-      <td><b>Forum</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/DenverCoder1/LaTeX-Gboard-Dictionary"><b>📝 Magento1 to Magento2 Migration</b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Upwork-1769FF?style=flat&logo=upwork&logoColor=white"/></b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Fiverr-1769FF?style=flat&logo=fiverr&logoColor=white"/></b></a></td>
-      <td><a href="#"><b><img src="https://img.shields.io/badge/-Forum-1769FF?style=flat&logo=forum&logoColor=white"/></b></a></td>
-    </tr>
-  </tbody>
-</table>
-<hr>
 
 <!---##-----------------------------------------------------  Topic Based Experiences    -----------------------------------------------------##--->
 
