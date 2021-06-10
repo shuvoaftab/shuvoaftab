@@ -17,6 +17,7 @@
 <p align="center"> 
 <a href="https://ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logoColor=white&labelColor=6200ea&logo=Google-Chrome"/></a>
 <a href="mailto:contact@ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logoColor=white&labelColor=6200ea&logo=Gmail"/></a>
+    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-aftab.shuvo-00aff0?style=flat-square&logoColor=white&labelColor=6200ea&logo=skype"/></a>
 </p>
 
 <p align="center">
@@ -118,11 +119,12 @@
     
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
 ## Focused Skills
-![Server](https://img.shields.io/badge/-Server%20Administration-darkred?style=flat&logoColor=white&labelColor=0078D6&logo=data:image/svg%2bxml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJzZXJ2ZXIiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1zZXJ2ZXIgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00ODAgMTYwSDMyYy0xNy42NzMgMC0zMi0xNC4zMjctMzItMzJWNjRjMC0xNy42NzMgMTQuMzI3LTMyIDMyLTMyaDQ0OGMxNy42NzMgMCAzMiAxNC4zMjcgMzIgMzJ2NjRjMCAxNy42NzMtMTQuMzI3IDMyLTMyIDMyem0tNDgtODhjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHptLTY0IDBjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHptMTEyIDI0OEgzMmMtMTcuNjczIDAtMzItMTQuMzI3LTMyLTMydi02NGMwLTE3LjY3MyAxNC4zMjctMzIgMzItMzJoNDQ4YzE3LjY3MyAwIDMyIDE0LjMyNyAzMiAzMnY2NGMwIDE3LjY3My0xNC4zMjcgMzItMzIgMzJ6bS00OC04OGMtMTMuMjU1IDAtMjQgMTAuNzQ1LTI0IDI0czEwLjc0NSAyNCAyNCAyNCAyNC0xMC43NDUgMjQtMjQtMTAuNzQ1LTI0LTI0LTI0em0tNjQgMGMtMTMuMjU1IDAtMjQgMTAuNzQ1LTI0IDI0czEwLjc0NSAyNCAyNCAyNCAyNC0xMC43NDUgMjQtMjQtMTAuNzQ1LTI0LTI0LTI0em0xMTIgMjQ4SDMyYy0xNy42NzMgMC0zMi0xNC4zMjctMzItMzJ2LTY0YzAtMTcuNjczIDE0LjMyNy0zMiAzMi0zMmg0NDhjMTcuNjczIDAgMzIgMTQuMzI3IDMyIDMydjY0YzAgMTcuNjczLTE0LjMyNyAzMi0zMiAzMnptLTQ4LTg4Yy0xMy4yNTUgMC0yNCAxMC43NDUtMjQgMjRzMTAuNzQ1IDI0IDI0IDI0IDI0LTEwLjc0NSAyNC0yNC0xMC43NDUtMjQtMjQtMjR6bS02NCAwYy0xMy4yNTUgMC0yNCAxMC43NDUtMjQgMjRzMTAuNzQ1IDI0IDI0IDI0IDI0LTEwLjc0NSAyNC0yNC0xMC43NDUtMjQtMjQtMjR6Ij48L3BhdGg+PC9zdmc+)
-![Networking](https://img.shields.io/badge/-Networking-darkblue?style=flat&logoColor=white&labelColor=0078D6&logo=network)
-![Web Development](https://img.shields.io/badge/-Web%20Development-darkred?style=flat&logoColor=white&labelColor=blue&logo=network)
-![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-darkblue?style=flat&logoColor=white&labelColor=blue&logo=network)
-![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-darkred?style=flat&logoColor=white&labelColor=blue&logo=network)
+![Server](https://img.shields.io/badge/-Server%20Administration-4a148c?style=flat&logoColor=white&labelColor=ff3d00&logo=linuxcontainers)
+![Networking](https://img.shields.io/badge/-Networking-d50000?style=flat&logoColor=white&labelColor=ff3d00&logo=fastlane)
+![Web Development](https://img.shields.io/badge/-Web%20Development-4a148c?style=flat&logoColor=white&labelColor=ff3d00&logo=devdotto)
+![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-d50000?style=flat&logoColor=white&labelColor=ff3d00&logo=shopify)
+![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-4a148c?style=flat&logoColor=white&labelColor=ff3d00&logo=minutemailer)
+![SEO](https://img.shields.io/badge/-Search%20Engine%20Optimization-d50000?style=flat&logoColor=white&labelColor=ff3d00&logo=googlesearchconsole)
 <hr>
 
 
