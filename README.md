@@ -55,7 +55,7 @@
 
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
 <b>Focused Skills</b> <br/>
-<a href="#">🖧 Networking</a> <a href="#">🖳 Server Administration</a>
+<a href="#">🖧 Networking</a> <a href="#">🖳 Server Administration</a> ![Server]<a href="#"><b><img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/SVG/server-solid.svg"/></b></a>
 
 
 <hr>
