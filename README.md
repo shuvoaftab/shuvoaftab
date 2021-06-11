@@ -81,7 +81,7 @@
 </summary>
   <details>
   <summary>
-    ↖   🚦 Website Migration
+    ↖   🚥 Website Migration
   </summary>
 
   <p>
@@ -91,7 +91,7 @@
 
   <details>
   <summary>
-    ↖   🚦 Server Migration
+    ↖   🚥 Server Migration
   </summary>
 
   <p>
