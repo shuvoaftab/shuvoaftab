@@ -68,7 +68,7 @@
 ## Portfolio
 <details>
 <summary>
-  Ecommerce Migration
+  ⚡ Ecommerce Migration
 </summary>
 
 <p>
@@ -77,11 +77,11 @@
 </details>
 <details>
 <summary>
-  Website & Server Migration
+  ⚡ Website & Server Migration
 </summary>
   <details>
   <summary>
-    Website Migration
+    ↖    Website Migration
   </summary>
 
   <p>
@@ -91,7 +91,7 @@
 
   <details>
   <summary>
-    Server Migration
+    ↖    Server Migration
   </summary>
 
   <p>
@@ -101,7 +101,7 @@
 </details>
 <details>
 <summary>
- Email Marketing Application
+ ⚡ Email Marketing Application
 </summary>
 
 <p>
@@ -111,7 +111,7 @@
 
 <details>
 <summary>
- cPanel Email Troubleshooting
+ ⚡ cPanel Email Troubleshooting
 </summary>
 
 <p>
