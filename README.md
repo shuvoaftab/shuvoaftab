@@ -75,27 +75,30 @@
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/ecommerce/Screenshot_8.png" alt="Magento2" />
 </p>    
 </details>
-
 <details>
 <summary>
-  Website Migration
+  Website & Server Migration
 </summary>
+  <details>
+  <summary>
+    Website Migration
+  </summary>
 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/website/henrygo.png" alt="Website Migration" />
-</p>    
+  <p>
+  <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/website/henrygo.png" alt="Website Migration" />
+  </p>    
+  </details>
+
+  <details>
+  <summary>
+    Server Migration
+  </summary>
+
+  <p>
+  <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/server/startinboxing.png" alt="Server Migration" />
+  </p>    
+  </details>
 </details>
-
-<details>
-<summary>
-  Server Migration
-</summary>
-
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/server/startinboxing.png" alt="Server Migration" />
-</p>    
-</details>
-
 <details>
 <summary>
  Email Marketing Application
