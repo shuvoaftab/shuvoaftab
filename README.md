@@ -208,6 +208,67 @@
 </p>    
 </details>
 
+<details>
+<summary>
+ ⚡ 🚦 Miscellaneous
+</summary>
+
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+</p> 
+</details>
+
 <hr>    
     
 <!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
