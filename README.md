@@ -214,59 +214,9 @@
 </summary>
 
 <p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/1kobomall.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/Simsima.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/Stuart_sendy.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/acel.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/acelle.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/awag%201.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/awagist.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/aws%20lightsail.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/aws%20fw.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/barry%20mw.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/buddy.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/cargo.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/email%20list%20cleaning.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/cargo.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/cm%20acc.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/cm%20dash.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/conqer.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/ecom%20pallette.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/email.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/ewide%20error.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/marcoo.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/mailwizz%20p%20k.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/henry%20app.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/matar%203.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/henry2.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/local%20mailgun.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/m%20exp.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/matar%204.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/matar%205.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/matarmart.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/matardemos.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/matardemo2.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/monarch.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/minagserver.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/mrtipster%201.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/ngsoound2.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/mrtipster%202.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/ofe%201.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/ofemofem.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/pmta.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/orderstation.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/order%20(2).png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/misc/pmta%20benzoo.png" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> <img height="180em" src="" alt="Ibrahim Sharif's Portfolio" /> 
 </p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
-<p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/migration/email/emails.png" alt="cPanel Email" />
-</p> 
+
 </details>
 
 <hr>    
