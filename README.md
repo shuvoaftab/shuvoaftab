@@ -46,19 +46,41 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/shuvoaftab/"><b>🔴 Magento1 to Magento2 Migration</b></a></td>
+      <td><a href="https://github.com/shuvoaftab/"><b>🟨 Magento1 to Magento2 Migration</b></a></td>
       <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
       <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
       <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
       <tr>
-      <td><a href="https://github.com/shuvoaftab/"><b>🔵 WordPress Migration ⮚ Domain ⮚ Server ⮚ Production</b></a></td>
+      <td><a href="https://github.com/shuvoaftab/"><b>🟡 WordPress Migration ⮚ Domain ⮚ Server ⮚ Production</b></a></td>
       <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
       <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
       <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
-      
-      
+    <tr>
+    <td><a href="https://github.com/shuvoaftab/"><b>🟩 WordPress Migration ⮚ Domain ⮚ Server ⮚ Production</b></a></td>
+    <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
+    <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
+    <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/shuvoaftab/"><b>🟢 WordPress Migration ⮚ Domain ⮚ Server ⮚ Production</b></a></td>
+    <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
+    <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
+    <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟪 WordPress Migration ⮚ Domain ⮚ Server ⮚ Production</b></a></td>
+    <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
+    <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
+    <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
+    </tr>
+    <tr>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟣 WordPress Migration ⮚ Domain ⮚ Server ⮚ Production</b></a></td>
+    <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
+    <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
+    <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
+    </tr>
   </tbody>
 </table>
 <hr>
