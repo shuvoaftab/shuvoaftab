@@ -1,4 +1,5 @@
-<!---##-----------------------------------------------------  Introduction    -----------------------------------------------------##--->
+<!--  Todo: Rearrange the portfolio Images-->
+<!---##------------------------------------------  Introduction    ----------------------------------------------##--->
 
 <h1 align="center">Peace be upon you ❤<br/>
     <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
@@ -7,7 +8,7 @@
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
 </p>
 
-<!---##-----------------------------------------------------  Badge Links    -----------------------------------------------------##--->
+<!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
 <h1 align="center"> 
 <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/" target="_blank"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logoColor=white&labelColor=33691e&logo=upwork"/></a>
 <a href="https://www.fiverr.com/shuvoaftab/" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=for-the-badge&logoColor=white&labelColor=04914f&logo=fiverr"/></a> 
@@ -33,7 +34,7 @@
 <hr>
 
 
-<!---##-----------------------------------------------------  Services    -----------------------------------------------------##--->
+<!---##------------------------------------------  Services    ----------------------------------------------##--->
 ## Services that I provide
 <table>
   <thead align="center">
@@ -153,7 +154,7 @@
 <hr>
 
 
-<!---##-----------------------------------------------------  Portfolio    -----------------------------------------------------##--->
+<!---##------------------------------------------  Portfolio    ----------------------------------------------##--->
 ## Portfolio
 <details>
 <summary>
@@ -221,7 +222,7 @@
 
 <hr>    
     
-<!---##-----------------------------------------------------  Focused Skills    -----------------------------------------------------##--->
+<!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
 ## Focused Skills
 ![Server](https://img.shields.io/badge/-Server%20Administration-0a00b6?style=flat-square&logoColor=black&labelColor=00e5ff&logo=data:image/svg%2bxml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJzZXJ2ZXIiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1zZXJ2ZXIgZmEtdy0xNiIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00ODAgMTYwSDMyYy0xNy42NzMgMC0zMi0xNC4zMjctMzItMzJWNjRjMC0xNy42NzMgMTQuMzI3LTMyIDMyLTMyaDQ0OGMxNy42NzMgMCAzMiAxNC4zMjcgMzIgMzJ2NjRjMCAxNy42NzMtMTQuMzI3IDMyLTMyIDMyem0tNDgtODhjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHptLTY0IDBjLTEzLjI1NSAwLTI0IDEwLjc0NS0yNCAyNHMxMC43NDUgMjQgMjQgMjQgMjQtMTAuNzQ1IDI0LTI0LTEwLjc0NS0yNC0yNC0yNHptMTEyIDI0OEgzMmMtMTcuNjczIDAtMzItMTQuMzI3LTMyLTMydi02NGMwLTE3LjY3MyAxNC4zMjctMzIgMzItMzJoNDQ4YzE3LjY3MyAwIDMyIDE0LjMyNyAzMiAzMnY2NGMwIDE3LjY3My0xNC4zMjcgMzItMzIgMzJ6bS00OC04OGMtMTMuMjU1IDAtMjQgMTAuNzQ1LTI0IDI0czEwLjc0NSAyNCAyNCAyNCAyNC0xMC43NDUgMjQtMjQtMTAuNzQ1LTI0LTI0LTI0em0tNjQgMGMtMTMuMjU1IDAtMjQgMTAuNzQ1LTI0IDI0czEwLjc0NSAyNCAyNCAyNCAyNC0xMC43NDUgMjQtMjQtMTAuNzQ1LTI0LTI0LTI0em0xMTIgMjQ4SDMyYy0xNy42NzMgMC0zMi0xNC4zMjctMzItMzJ2LTY0YzAtMTcuNjczIDE0LjMyNy0zMiAzMi0zMmg0NDhjMTcuNjczIDAgMzIgMTQuMzI3IDMyIDMydjY0YzAgMTcuNjczLTE0LjMyNyAzMi0zMiAzMnptLTQ4LTg4Yy0xMy4yNTUgMC0yNCAxMC43NDUtMjQgMjRzMTAuNzQ1IDI0IDI0IDI0IDI0LTEwLjc0NSAyNC0yNC0xMC43NDUtMjQtMjQtMjR6bS02NCAwYy0xMy4yNTUgMC0yNCAxMC43NDUtMjQgMjRzMTAuNzQ1IDI0IDI0IDI0IDI0LTEwLjc0NSAyNC0yNC0xMC43NDUtMjQtMjQtMjR6Ij48L3BhdGg+PC9zdmc+)
 ![Networking](https://img.shields.io/badge/-Networking-dd2c00?style=flat-square&logoColor=black&labelColor=00e5ff&logo=fastlane)
@@ -235,7 +236,7 @@
 <hr>
 
 
-<!---##-----------------------------------------------------  Certifications  -----------------------------------------------------##--->
+<!---##------------------------------------------  Certifications  ----------------------------------------------##--->
 ## Certifications
 <p>
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
@@ -244,7 +245,7 @@
 
 <hr>
 
-<!---##-----------------------------------------------------  Stats   -----------------------------------------------------##--->
+<!---##------------------------------------------  Stats   ----------------------------------------------##--->
 <p align="center">
 <a href="https://github.com/shuvoaftab">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -254,7 +255,7 @@
 <hr>
 
 
-<!---##-----------------------------------------------------  Streaks    -----------------------------------------------------##--->
+<!---##------------------------------------------  Streaks    ----------------------------------------------##--->
 <p align="center">
   <a href="https://github.com/shuvoaftab">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab&count_private=true&theme=radical" alt="Ibrahim Sharif" />
@@ -263,13 +264,13 @@
 <hr>
 
 
-<!---##-----------------------------------------------------  Trophies    -----------------------------------------------------##--->
+<!---##------------------------------------------  Trophies    ----------------------------------------------##--->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
 <hr>
 
 
-<!---##-----------------------------------------------------  Topic Based Experiences    -----------------------------------------------------##--->
+<!---##------------------------------------------  Topic Based Experiences    ----------------------------------------------##--->
 
 Topics                   | Experiences 
 -------------------------|------
@@ -309,7 +310,7 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 
 <hr>
 
-<!---##-----------------------------------------------------  Favorite Repositories   -----------------------------------------------------##--->
+<!---##------------------------------------------  Favorite Repositories   ----------------------------------------------##--->
 ### Learning Series Snippets :
   
 <a href="https://github.com/shuvoaftab/LearnMySQL">
@@ -340,7 +341,7 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 <hr>
 
 
-<!---##-----------------------------------------------------  Youtube   -----------------------------------------------------##--->
+<!---##------------------------------------------  Youtube   ----------------------------------------------##--->
 ## 📺 YouTube Videos
 
 <table>
