@@ -118,31 +118,31 @@
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟨 Design or customize or clone wordpress business and woocommerce store website </b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟨 Design, Customize, Clone Wordpress Business And Woocommerce Store Website </b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟡 Migrate magento, opencart, woocommerce, prestashop or any ecommerce site</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟡 Migrate Magento, Opencart, Woocommerce, Prestashop or any Ecommerce Site</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟩 Fix or setup bulk mail server with powermta, interspire, mailwizz, sendy, acelle</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟩 Fix or Setup Bulk Mail Server With Powermta, Interspire, Mailwizz, Sendy, Acelle</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟢 Customize or design editable mailchimp email marketing newsletter template</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟢 Customize, Design Editable Mailchimp Email Marketing Newsletter Template</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟪 Be virtual assistant for data entry, web research, file conversion or bulk tasks</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟪 Be Virtual Assistant For Data Entry, Web Research, File Conversion or Bulk Tasks</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
