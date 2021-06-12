@@ -58,61 +58,61 @@
       <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b>🟩 Fix or setup cpanel, whm, plesk, email, ssl, nginx, apache and linux servers</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b>🟩 Troubleshoot cPanel, WHM, Plesk, email, SSL, NGINX, Apache and Linux Servers</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b>🟢 Migrate website from one server to another server or domain or subdomain</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b>🟢 Migrate Website :: Server :: Domain :: Subdomain :: Localhost</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟪 Fix domain dns, mail, mx, a, txt, cname, ns records for cpanel, vps, cloudflare</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟪 Fix domain DNS, Mail, MX, A, TXT, CNAME, NS records for cPanel, VPS, Cloudflare</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟣 setup gsuite, office365, outlook, email migration, fix mail dns, spf dkim dmarc</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟣 Setup Gsuite, Office365, Email Migration, Mail DNS, SPF, DKIM DMARC</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟨 Develop or customize ecommerce, affiliate, dropshipping, company or any website</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟨 Develop or Customize Ecommerce, Affiliate, Dropshipping, Company or any Website</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟡 do website seo audit, optimization, technical analysis, data reporting, advising</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟡 Do Website SEO Audit, Optimization, Technical Analysis, Data Reporting, Advising</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟩 Provide competitor analysis and seo audit and keyword research with numeric data</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟩 Provide Competitor Analysis , SEO Audit , Keyword Research</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟢 do personal, business, affiliate, niche keyword research with quantitative data</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟢 Do Personal, Business, Affiliate, Niche Keyword Research with quantitative data</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟪 Speed up wordpress, optimize woocommerce performance, increase gtmetrix score</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟪 Speed up Wordpress, Optimize Woocommerce Performance, increase GTMetrix Score</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
     <tr>
-    <td><a href="https://github.com/shuvoaftab/"><b> 🟣 Help, fix or customize design wordpress website, woocommerce shop products seo</b></a></td>
+    <td><a href="https://github.com/shuvoaftab/"><b> 🟣 Help, Fix, Customize & Design Wordpress Website, Woocommerce Shop Products SEO</b></a></td>
     <td><a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/"><b><img src="https://img.shields.io/badge/-Upwork-14a800?style=flat&logoColor=white&labelColor=ff1744&logo=upwork"/></b></a></td>
     <td><a href="https://www.fiverr.com/shuvoaftab/"><b><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=flat&logoColor=white&labelColor=ff1744&logo=fiverr"/></b></a></td>
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
