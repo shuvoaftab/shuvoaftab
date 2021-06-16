@@ -159,7 +159,7 @@
 ## Portfolio
 <details>
 <summary>
-  ⚡ 🚦 Ecommerce Migration:
+  ⚡ 🚦 Ecommerce Migration >>
 </summary>
 
 <p>
