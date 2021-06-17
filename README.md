@@ -172,7 +172,7 @@
 </summary>
   <details>
   <summary>
-    ↖   🚥 Website Migration
+    ↖   🚥 Website Migration ::
   </summary>
 
   <p>
