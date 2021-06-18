@@ -192,7 +192,7 @@
 </details>
 <details>
 <summary>
- ⚡ 🚦 Email Marketing Application
+ ⚡ 🚦 Email Marketing Application >>
 </summary>
 
 <p>
