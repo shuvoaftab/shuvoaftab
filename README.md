@@ -182,7 +182,7 @@
 
   <details>
   <summary>
-    ↖   🚥 Server Migration
+    ↖   🚥 Server Migration >>
   </summary>
 
   <p>
