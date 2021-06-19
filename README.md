@@ -202,7 +202,7 @@
 
 <details>
 <summary>
- ⚡ 🚦 cPanel Email Troubleshooting
+ ⚡ 🚦 cPanel Email Troubleshooting >>
 </summary>
 
 <p>
