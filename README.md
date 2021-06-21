@@ -212,7 +212,7 @@
 
 <details>
 <summary>
- ⚡ 🚦 Miscellaneous:
+ ⚡ 🚦 Miscellaneous::
 </summary>
 
 <p>
