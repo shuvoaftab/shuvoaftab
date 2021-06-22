@@ -159,7 +159,7 @@
 ## Portfolio
 <details>
 <summary>
-  ⚡ 🚦 Ecommerce Migration >>
+ ## ⚡ 🚦 Ecommerce Migration >>
 </summary>
 
 <p>
@@ -168,7 +168,7 @@
 </details>
 <details>
 <summary>
-  ⚡ 🚦 Website & Server Migration >>
+ ## ⚡ 🚦 Website & Server Migration >>
 </summary>
   <details>
   <summary>
