@@ -8,7 +8,7 @@
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
 </p>
 <p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace.jpg" alt="Ibrahim Sharif's woekspace" />
+<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace-shuvoaftab.jpg" alt="Ibrahim Sharif's woekspace" />
 </p>
 
 <!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
