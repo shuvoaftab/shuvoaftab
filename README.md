@@ -300,7 +300,7 @@
 
 Topics                   | Experiences 
 -------------------------|------
-Automation               |![FluentCRM](https://img.shields.io/badge/-UBot-000000?style=flat&logo=probot&logoColor=ffffff&labelColor=aa00ff)
+Automation               |![FluentCRM](https://img.shields.io/badge/-FluentCRM-000000?style=flat&logo=probot&logoColor=ffffff&labelColor=aa00ff)
 Code Repositories        |![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=fafafa) ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=fafafa) ![AWS CodeCommit](https://img.shields.io/badge/-AWS%20CodeCommit-000000?style=flat&logo=Amazon+AWS&logoColor=red&labelColor=fafafa) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-000000?style=flat&logo=Bitbucket&logoColor=red&labelColor=fafafa) ![Beanstalk](https://img.shields.io/badge/-Beanstalk-000000?style=flat&logo=beats&logoColor=red&labelColor=fafafa) ![Codebase](https://img.shields.io/badge/-Codebase-000000?style=flat&logo=Codecademy&logoColor=red&labelColor=fafafa) ![Gitlab](https://img.shields.io/badge/-Gitlab-000000?style=flat&logo=Gitlab&logoColor=ffffff&labelColor=fafafa) ![SourceForge](https://img.shields.io/badge/-SourceForge-000000?style=flat&logo=SourceForge&logoColor=red&labelColor=fafafa) ![Gitpod](https://img.shields.io/badge/-Gitpod-000000?style=flat&logo=Gitpod&logoColor=red&labelColor=fafafa) ![Gitee](https://img.shields.io/badge/-Gitee-000000?style=flat&logo=Gitee&logoColor=red&labelColor=fafafa) ![Gitkraken](https://img.shields.io/badge/-Gitkraken-000000?style=flat&logo=Gitkraken&logoColor=red&labelColor=fafafa) ![Gitea](https://img.shields.io/badge/-Gitea-000000?style=flat&logo=Gitea&logoColor=red&labelColor=fafafa) 
 Clouds              |![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=Microsoft-Azure&logoColor=ffffff&labelColor=d50000) ![OVH Cloud](https://img.shields.io/badge/-OVH%20Cloud-000000?style=flat&logo=OVH&logoColor=ffffff&labelColor=d50000) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-000000?style=flat&logo=Google%20Cloud&logoColor=ffffff&labelColor=d50000) ![AWS](https://img.shields.io/badge/-Amazon%20Web%20Services-000000?style=flat&logo=amazon-aws&logoColor=ffffff&labelColor=d50000) ![Alibaba Cloud](https://img.shields.io/badge/-Alibaba%20Cloud-000000?style=flat&logo=Alibaba%20Cloud&logoColor=ffffff&labelColor=d50000) ![Namecheap](https://img.shields.io/badge/-Namecheap-000000?style=flat&logo=Namecheap&logoColor=ffffff&labelColor=d50000) ![Godaddy](https://img.shields.io/badge/-Godaddy-000000?style=flat&logo=groupon&logoColor=ffffff&labelColor=d50000) ![Webdock](https://img.shields.io/badge/-Webdock-000000?style=flat&logo=Webflow&logoColor=ffffff&labelColor=d50000) ![Contabo](https://img.shields.io/badge/-Contabo-000000?style=flat&logo=Cloudera&logoColor=ffffff&labelColor=d50000) ![VPSDime](https://img.shields.io/badge/-VPSDime-000000?style=flat&logo=v&logoColor=ffffff&labelColor=d50000) ![SSDNodes](https://img.shields.io/badge/-SSDNodes-000000?style=flat&logo=Simkl&logoColor=ffffff&labelColor=d50000) ![Kimsufi](https://img.shields.io/badge/-Kimsufi-000000?style=flat&logo=Kongregate&logoColor=ffffff&labelColor=d50000) ![Scaleway](https://img.shields.io/badge/-Scaleway-000000?style=flat&logo=Scaleway&logoColor=ffffff&labelColor=d50000) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000000?style=flat&logo=DigitalOcean&logoColor=ffffff&labelColor=d50000) ![Vultr](https://img.shields.io/badge/-Vultr-000000?style=flat&logo=Vultr&logoColor=ffffff&labelColor=d50000) ![Cloudways](https://img.shields.io/badge/-Cloudways-000000?style=flat&logo=Cloudways&logoColor=ffffff&labelColor=d50000) ![Elastic Cloud](https://img.shields.io/badge/-Elastic%20Cloud-000000?style=flat&logo=Elastic+Cloud&logoColor=ffffff&labelColor=d50000) ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-000000?style=flat&logo=Microsoft+Azure&logoColor=ffffff&labelColor=d50000) 
 CDNs                     |![Cloudflare](https://img.shields.io/badge/-Cloudflare-000000?style=flat&logo=Cloudflare&logoColor=ffffff&labelColor=0026ca) ![Cloudfront](https://img.shields.io/badge/-Cloudfront-000000?style=flat&logo=icloud&logoColor=ffffff&labelColor=0026ca) ![Akamai](https://img.shields.io/badge/-Akamai-000000?style=flat&logo=Academia&logoColor=ffffff&labelColor=0026ca) ![Fastly](https://img.shields.io/badge/-Fastly-000000?style=flat&logo=Fastly&logoColor=ffffff&labelColor=0026ca) ![KeyCDN](https://img.shields.io/badge/-KeyCDN-000000?style=flat&logo=KeyCDN&logoColor=ffffff&labelColor=0026ca) 
@@ -331,22 +331,22 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 <hr>
 
 <!---##------------------------------------------  Favorite Repositories   ----------------------------------------------##--->
-### Learning Series Snippets :
+### Academic Projects :
   
-<a href="https://github.com/shuvoaftab/LearnMySQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=LearnMySQL&theme=tokyonight" />
+<a href="https://github.com/shuvoaftab/androidserver">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=androidserver&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/shuvoaftab/LearnPython">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=LearnPython&theme=tokyonight" />
+<a href="https://github.com/shuvoaftab/prject300">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=prject300&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/shuvoaftab/LearnPHP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=LearnPHP&theme=tokyonight" />
+<a href="https://github.com/shuvoaftab/chatbot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=chatbot&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/shuvoaftab/OOP46">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=OOP46&theme=tokyonight" />
+<a href="https://github.com/shuvoaftab/laravel-crud">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=laravel-crud&theme=tokyonight" />
 </a>
 
 ### Ecommerce Repositories :
