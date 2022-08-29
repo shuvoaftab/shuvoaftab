@@ -42,8 +42,8 @@
 
 
 <!---##------------------------------------------  Services    ----------------------------------------------##--->
-## Services >>
-<table>
+<!--## Services >> -->
+<!--table>
   <thead align="center">
     <tr border: none;>
       <td><b>Services</b></td>
@@ -156,7 +156,7 @@
     <td><a href="https://forum.ibrahimsharif.com/"><b><img src="https://img.shields.io/badge/-Forum-311b92?style=flat&logoColor=white&labelColor=ff1744&logo=foursquare"/></b></a></td>
     </tr>
   </tbody>
-</table>
+</table-->
 
 <hr>
 
