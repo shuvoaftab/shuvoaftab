@@ -333,29 +333,7 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 <!---##------------------------------------------  Favorite Repositories   ----------------------------------------------##--->
 ### Academic Projects :
   
-<a href="https://github.com/shuvoaftab/androidserver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=androidserver&theme=tokyonight" />
-</a>
 
-<a href="https://github.com/shuvoaftab/project300">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=project300&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/shuvoaftab/chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=chatbot&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/shuvoaftab/laravel-crud">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=laravel-crud&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/shuvoaftab/Bioinformatics">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Bioinformatics&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/shuvoaftab/AcademicProgramming">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=AcademicProgramming&theme=tokyonight" />
-</a>
 
 <hr>
 
