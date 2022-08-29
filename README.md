@@ -357,15 +357,6 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=AcademicProgramming&theme=tokyonight" />
 </a>
 
-### Ecommerce Repositories :
-
-<a href="https://github.com/shuvoaftab/magento2">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Magento2&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/shuvoaftab/opencart-snippets">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Opencart-Snippets&theme=tokyonight" />
-</a>
 <hr>
 
 
