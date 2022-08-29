@@ -1,12 +1,12 @@
 <!--  Todo: Rearrange the portfolio Images-->
 <!---##------------------------------------------  Introduction    ----------------------------------------------##--->
 
-<!--h1 align="center">Peace be upon you ❤<br/>
+<h1 align="center">Peace be upon you ❤<br/>
     <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
-</h1-->
-<p align="center">
+</h1>
+<!--p align="center">
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
-</p>
+</p-->
 <p align="center">
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace-shuvoaftab.jpg" alt="Ibrahim Sharif's woekspace" />
 </p>
