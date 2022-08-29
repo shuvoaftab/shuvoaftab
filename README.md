@@ -28,8 +28,8 @@
 </p>
 
 <p align="center">
-<a href="https://www.facebook.com/ibrahimsharifdevelops/"><img src="https://img.shields.io/badge/-Developer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a>
-<a href="https://www.facebook.com/ibrahimsharifofficial/"><img src="https://img.shields.io/badge/-Travel%20Photographer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a>
+<!--a href="https://www.facebook.com/ibrahimsharifdevelops/"><img src="https://img.shields.io/badge/-Developer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a>
+<a href="https://www.facebook.com/ibrahimsharifofficial/"><img src="https://img.shields.io/badge/-Travel%20Photographer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a-->
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-ibrahim.ibn.alamgir-e1306c?style=flat&logoColor=white&labelColor=311b92&logo=Instagram"/></a>
 <a href="https://www.twitter.com/shuvoaftab"><img src="https://img.shields.io/badge/-Tweet%20me-1da1f2?style=flat&logoColor=white&labelColor=311b92&logo=twitter"/></a>
 <a href="https://www.youtube.com/user/MrIbrahimsharif/"><img src="https://img.shields.io/badge/-My%20Videos-ff0000?style=flat&logoColor=white&labelColor=311b92&logo=youtube"/></a>
