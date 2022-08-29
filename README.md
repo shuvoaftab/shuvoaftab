@@ -24,19 +24,20 @@
 <p align="center"> 
 <a href="https://ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-ibrahimsharif.com-3423A6?style=flat-square&logoColor=white&labelColor=6200ea&logo=Google-Chrome"/></a>
 <a href="mailto:contact@ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-D14836?style=flat-square&logoColor=white&labelColor=6200ea&logo=Gmail"/></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/-aftab.shuvo-00aff0?style=flat-square&logoColor=white&labelColor=6200ea&logo=skype"/></a>
+
 </p>
 
-<p align="center">
-<!--a href="https://www.facebook.com/ibrahimsharifdevelops/"><img src="https://img.shields.io/badge/-Developer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a>
-<a href="https://www.facebook.com/ibrahimsharifofficial/"><img src="https://img.shields.io/badge/-Travel%20Photographer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a-->
+<!--p align="center">
+ <a href="#" target="_blank"><img src="https://img.shields.io/badge/-aftab.shuvo-00aff0?style=flat-square&logoColor=white&labelColor=6200ea&logo=skype"/></a>
+<a href="https://www.facebook.com/ibrahimsharifdevelops/"><img src="https://img.shields.io/badge/-Developer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a>
+<a href="https://www.facebook.com/ibrahimsharifofficial/"><img src="https://img.shields.io/badge/-Travel%20Photographer-3b5998?style=flat&logoColor=white&labelColor=311b92&logo=Facebook"/></a>
 <a href="https://www.instagram.com/ibrahim.ibn.alamgir"><img src="https://img.shields.io/badge/-ibrahim.ibn.alamgir-e1306c?style=flat&logoColor=white&labelColor=311b92&logo=Instagram"/></a>
 <a href="https://www.twitter.com/shuvoaftab"><img src="https://img.shields.io/badge/-Tweet%20me-1da1f2?style=flat&logoColor=white&labelColor=311b92&logo=twitter"/></a>
 <a href="https://www.youtube.com/user/MrIbrahimsharif/"><img src="https://img.shields.io/badge/-My%20Videos-ff0000?style=flat&logoColor=white&labelColor=311b92&logo=youtube"/></a>
-<!--a href="https://forum.xda-developers.com/m/shuvoaftab.7111152/"><img src="https://img.shields.io/badge/-XDA-EA7100?style=flat&logoColor=white&labelColor=311b92&logo=XDA+Developers"/></a>
+<a href="https://forum.xda-developers.com/m/shuvoaftab.7111152/"><img src="https://img.shields.io/badge/-XDA-EA7100?style=flat&logoColor=white&labelColor=311b92&logo=XDA+Developers"/></a>
 <a href="#"><img src="https://img.shields.io/badge/-Ibrahim-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a-->
-</p>
+<a href="#"><img src="https://img.shields.io/badge/-Ibrahim-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p-->
 
 <hr>
 
