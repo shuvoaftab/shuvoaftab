@@ -238,7 +238,6 @@
 ![Web Development](https://img.shields.io/badge/-Web%20Development-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=AirPlay+Video)
 ![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=wordpress)
 ![Website Performance](https://img.shields.io/badge/-Website%20Performance-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=Amazon+DynamoDB)
-
 ![Website Backup, Cloning & Migration](https://img.shields.io/badge/-Website%20Backup%20and%20Cloning%20and%20Migration-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=bookstack)
 ![Ecommerce Development](https://img.shields.io/badge/-Ecommerce%20Development-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=magento)
 ![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=shopify)
@@ -246,6 +245,8 @@
 ![PowerMTA](https://img.shields.io/badge/-PowerMTA%20Infrastructures-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=TryHackMe)
 ![Technical SEO](https://img.shields.io/badge/-Technical%20SEO-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=exercism)
 ![Keyword Research](https://img.shields.io/badge/-Keyword%20Research-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=wordpress)
+![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Simple+Analytics)
+![Web Automation](https://img.shields.io/badge/-Web%20Automation-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=amp)
 <!--
 ![Full Website Creation](https://img.shields.io/badge/-Full%20Website%20Creation-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=devdotto)
 ![Website Builders](https://img.shields.io/badge/-Website%20Builders-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=blueprint)
@@ -255,8 +256,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino%20Projects-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Arduino)
 ![Virtual Assistant](https://img.shields.io/badge/-Virtual%20Assistant-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=F-Droid)
 -->
-![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Simple+Analytics)
-![Web Automation](https://img.shields.io/badge/-Web%20Automation-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=amp)
+
 
 <hr>
 
