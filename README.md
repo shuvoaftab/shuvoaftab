@@ -8,7 +8,10 @@
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
 </p-->
 <p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace-shuvoaftab.jpg" alt="Ibrahim Sharif's woekspace" />
+<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace-shuvoaftab.jpg" alt="Ibrahim Sharif's workspace" />
+</p>
+<p align="center">
+<img src="[https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace-shuvoaftab.jpg](https://pd.w.org/2022/08/92462f369043cce74.83253271-2048x1536.jpg)" alt="Ibrahim Sharif's WordPress Workspace" />
 </p>
 
 <!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
