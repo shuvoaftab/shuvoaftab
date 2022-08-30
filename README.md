@@ -95,9 +95,9 @@
 <a href="https://authlab.io/about/#team:~:text=Digital%20Marketer-,Ibrahim%20Sharif,-Support%20Engineer"><img height="100em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/authlab_logo.png" alt="Ibrahim Sharif Authlab" /></a>
 
 <h4>
-    #1. Product Documentation Writer < FluentCRM >
+    #2. Product Documentation Writer < FluentCRM >
 </h4>
-<a href="https://fluentcrm.com"><img height="100em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" /></a>
+<a href="https://fluentcrm.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" /></a>
 <hr>
 
 <!---##------------------------------------------  Stats   ----------------------------------------------##--->
