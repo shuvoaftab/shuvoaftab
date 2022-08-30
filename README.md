@@ -177,7 +177,7 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 </a>
 
 <a href="https://github.com/shuvoaftab/Bioinformatics">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Bioinformatics&theme=codeSTACKr&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Bioinformatics&theme=github_dark&show_icons=true" />
 </a>
 
 <a href="https://github.com/shuvoaftab/AcademicProgramming">
