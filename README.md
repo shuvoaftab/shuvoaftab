@@ -353,7 +353,13 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=AcademicProgramming&theme=tokyonight" />
 </a>
 
+<a href="https://github.com/shuvoaftab/emaildelivery">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=emaildelivery&theme=tokyonight" />
+</a>
 
+<a href="https://github.com/shuvoaftab/homenetwork">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=homenetwork&theme=dark&show_icons=true" />
+</a>
 <hr>
 
 
