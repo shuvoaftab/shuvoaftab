@@ -269,7 +269,17 @@
 
 <hr>
 
+<!---##------------------------------------------  Certifications  ----------------------------------------------##--->
+## Past Jobs
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+</p>
+
+<hr>
+
 <!---##------------------------------------------  Stats   ----------------------------------------------##--->
+
 <p align="center">
 <a href="https://github.com/shuvoaftab">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -295,6 +305,7 @@
 
 
 <!---##------------------------------------------  Topic Based Experiences    ----------------------------------------------##--->
+## Technologies Experienced
 
 Topics                   | Experiences 
 -------------------------|------
@@ -364,14 +375,24 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 </a>
 <hr>
 
+<!---##------------------------------------------  Important Projects   ----------------------------------------------##--->
+## Infrastructure Projects
+
+<a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/VirtualizationWebHosting.png?raw=true"></a>
+<a href="https://github.com/shuvoaftab/emaildelivery"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/EmailDeliveryPlan.png?raw=true"></a>
+<a href="https://github.com/shuvoaftab/androidserver"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/AndroidAsServer.png?raw=true"></a>
+<hr>
+
 
 <!---##------------------------------------------  Youtube   ----------------------------------------------##--->
-## 📺
+## Youtube
 
 <a href="https://www.youtube.com/mribrahimsharif"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/gif/ibrahimsharifYoutube.gif"></a>
-
-
 <hr>
+
+
+<!---##------------------------------------------  Workplace   ----------------------------------------------##--->
+## Workplace
 <p align="center">
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace-shuvoaftab.jpg" alt="Ibrahim Sharif's workspace" />
 </p>
