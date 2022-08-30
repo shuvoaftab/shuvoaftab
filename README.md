@@ -197,7 +197,7 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 ## Infrastructure Projects
 
 <h4> #1. Virtualization & Home Network </h4>
-    <a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/VirtualizationWebHosting.png"></a>
+    <a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/VirtualizationWebHostingNew.png"></a>
 <h4> #2. CentOS as a VPS in Home Network </h4>
     <a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/HomeServerCentOS.png"></a>
 <h4> #3. Email Delivery Multi Channels </h4>
