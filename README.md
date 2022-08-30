@@ -89,10 +89,10 @@
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
 </p-->
 
-<p>
+<h2>
     #1. Support Engineer < FluentCRM, Fluent SMTP, Fluent Forms >
-    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/authlab_logo.png" alt="Ibrahim Sharif Authlab" /></p>
-
+</h2>
+<a href="https://authlab.io/about/#team:~:text=Digital%20Marketer-,Ibrahim%20Sharif,-Support%20Engineer"><img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/authlab_logo.png" alt="Ibrahim Sharif Authlab" /></a>
 <hr>
 
 <!---##------------------------------------------  Stats   ----------------------------------------------##--->
