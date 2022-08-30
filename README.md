@@ -269,11 +269,12 @@
 
 <hr>
 
-<!---##------------------------------------------  Certifications  ----------------------------------------------##--->
+<!---##------------------------------------------  Past Jobs  ----------------------------------------------##--->
 ## Past Jobs
 <p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
 </p>
 
 <hr>
