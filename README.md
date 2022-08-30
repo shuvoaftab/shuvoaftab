@@ -198,12 +198,13 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 
 <h4> #1. Virtualization & Home Network </h4>
     <a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/VirtualizationWebHosting.png"></a>
-<h4> #2. Email Delivery Multi Channels </h4>
-    <a href="https://github.com/shuvoaftab/emaildelivery"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/EmailDeliveryPlan.png"></a>    
-<h4> #3. Android as a Server </h4>
-    <a href="https://github.com/shuvoaftab/androidserver"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/AndroidAsServer.png"></a>        
-<h4> #4. CentOS as a VPS in Home Network </h4>
+<h4> #2. CentOS as a VPS in Home Network </h4>
     <a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/HomeServerCentOS.png"></a>
+<h4> #3. Email Delivery Multi Channels </h4>
+    <a href="https://github.com/shuvoaftab/emaildelivery"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/EmailDeliveryPlan.png"></a>    
+<h4> #4. Android as a Server </h4>
+    <a href="https://github.com/shuvoaftab/androidserver"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/AndroidAsServer.png"></a>        
+
 
   
 <hr>
