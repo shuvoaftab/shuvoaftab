@@ -373,6 +373,6 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 <p align="center">
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace-shuvoaftab.jpg" alt="Ibrahim Sharif's workspace" />
 </p>
-<p align="center">
+<!--p align="center">
 <img src="https://pd.w.org/2022/08/92462f369043cce74.83253271-2048x1536.jpg" alt="Ibrahim Sharif's WordPress Workspace" />
-</p>
+</p-->
