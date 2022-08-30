@@ -269,6 +269,15 @@
 
 <hr>
 
+<!---##------------------------------------------  Certifications  ----------------------------------------------##--->
+## Past Jobs
+<p>
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
+</p>
+
+<hr>
+
 <!---##------------------------------------------  Stats   ----------------------------------------------##--->
 
 <p align="center">
@@ -369,9 +378,9 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 <!---##------------------------------------------  Important Projects   ----------------------------------------------##--->
 ## Infrastructure Projects
 
-<a href="https://github.com/shuvoaftab/homenetwork"><img width="50%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/VirtualizationWebHosting.png?raw=true"></a>
-<a href="https://github.com/shuvoaftab/emaildelivery"><img width="50%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/EmailDeliveryPlan.png?raw=true"></a>
-<a href="https://github.com/shuvoaftab/androidserver"><img width="50%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/AndroidAsServer.png?raw=true"></a>
+<a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/VirtualizationWebHosting.png?raw=true"></a>
+<a href="https://github.com/shuvoaftab/emaildelivery"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/EmailDeliveryPlan.png?raw=true"></a>
+<a href="https://github.com/shuvoaftab/androidserver"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/AndroidAsServer.png?raw=true"></a>
 <hr>
 
 
