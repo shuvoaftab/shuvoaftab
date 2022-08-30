@@ -161,15 +161,15 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 ### Academic Projects :
 
 <a href="https://github.com/shuvoaftab/androidserver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=androidserver&theme=dark&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=androidserver&theme=jolly&show_icons=true" />
 </a>
 
 <a href="https://github.com/shuvoaftab/project300">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=project300&theme=radical&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=project300&theme=yeblu&show_icons=true" />
 </a>
 
 <a href="https://github.com/shuvoaftab/chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=chatbot&theme=merko&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=chatbot&theme=outrun&show_icons=true" />
 </a>
 
 <a href="https://github.com/shuvoaftab/laravel-crud">
@@ -177,7 +177,7 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 </a>
 
 <a href="https://github.com/shuvoaftab/Bioinformatics">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Bioinformatics&theme=tokyonight&show_icons=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Bioinformatics&theme=codeSTACKr&show_icons=true" />
 </a>
 
 <a href="https://github.com/shuvoaftab/AcademicProgramming">
