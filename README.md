@@ -82,7 +82,7 @@
 <hr>
 
 <!---##------------------------------------------  Past Jobs  ----------------------------------------------##--->
-## Past Jobs
+## Work History
 <!--p>
 
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
@@ -97,6 +97,11 @@
     <a href="https://fluentcrm.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" /></a>
     <a href="https://fluentforms.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" /></a>
     <a href="https://fluentsmtp.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" /></a>
+    
+<h4> #3. Freelancing </h4>
+    <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a>
+    <a href="https://www.fiverr.com/shuvoaftab"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fiverr-level-two-ibrahimsharif.jpg" alt="Ibrahim Sharif Fiverr" /></a>
+    
 <hr>
 
 <!---##------------------------------------------  Stats   ----------------------------------------------##--->
