@@ -168,9 +168,9 @@ Javascripts              |![React](https://img.shields.io/badge/-React-000000?st
 <!---##------------------------------------------  Favorite Repositories   ----------------------------------------------##--->
 ### Academic Projects :
 
-<a href="https://github.com/shuvoaftab/androidserver">
+<!--a href="https://github.com/shuvoaftab/androidserver">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=androidserver&theme=jolly&show_icons=true"/>
-</a>
+</a-->
 
 <a href="https://github.com/shuvoaftab/project300">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=project300&theme=yeblu&show_icons=true" />
