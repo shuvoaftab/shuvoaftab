@@ -32,7 +32,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
     
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
-## Assistance Providing with
+## Assistance Provided with
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
 ![Networking](https://img.shields.io/badge/-Networking-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=fastlane)
 ![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
@@ -61,22 +61,17 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 ## Work History
 
 <h4> Experiences </h4>
-<!--     <a href="https://authlab.io/about/#team:~:text=Digital%20Marketer-,Ibrahim%20Sharif,-Support%20Engineer"><img height="100em"   src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/authlab_logo.png" alt="Ibrahim Sharif Authlab" /></a> -->
-    <a href="https://wpmanageninja.com">
-        <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
-    </a>
+ <a href="https://wpmanageninja.com">
+    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
+    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
+    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
+    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
+</a>
+
+<h4> #2. Freelancing </h4>
     <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be">
         <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
     </a>
-
-<!--h4> #2. Product Documentation Writer < Fluent CRM, Forms, SMTP > </h4>
-    <a href="https://fluentcrm.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" /></a>
-    <a href="https://fluentforms.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" /></a>
-    <a href="https://fluentsmtp.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" /></a-->
-    
-<!--h4> #2. Freelancing </h4-->
-<!--     <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a> -->
-    
     
 <hr>
 
