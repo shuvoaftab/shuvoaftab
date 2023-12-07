@@ -78,14 +78,15 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <!---##------------------------------------------  Keypoints of Expertise    ----------------------------------------------##--->
 
+
 <div align="center">
     <table >
         <tr>
-            <td>Marketing &amp; Automation</td>
+            <td>Server Administration</td>
         </tr>
      <tr>
        <td>
-            Unlock the power of seamless marketing and automation with my expertise. From crafting compelling campaigns on Mailchimp to optimizing your WordPress and WooCommerce platforms, I bring a wealth of experience in leveraging CRM systems and email solutions like Klaviyo. Transform your digital presence with precision-targeted strategies, ensuring your message resonates with your audience. Harness the synergy of cutting-edge tools and platforms for a marketing approach that's not just efficient but irresistibly captivating. Let's elevate your brand through the art and science of marketing automation.
+Mastering the art of server administration, I seamlessly navigate the digital landscape with expertise in Linux, Nginx, Apache, PHP, MySQL, and VPS configurations. Elevate your online presence with optimized server environments, ensuring swift and secure data delivery. From fine-tuning performance to troubleshooting, I orchestrate a symphony of technologies to keep your servers running at peak efficiency. Trust in my proficiency to manage the heartbeat of your digital infrastructure, providing stability and scalability for your web applications. Let's craft a server solution that transcends expectations and propels your online presence to new heights.
                 <br/><br/>
                 Relevant Projects:<br/>
                 <ol>
@@ -99,49 +100,111 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 </div>
 
 
-
 <div align="center">
     <table >
+        <tr>
+            <td>Email Administration</td>
+        </tr>
      <tr>
-        <td><b>Email</b></td>
-        <td><b>Migration</b></td>
-     </tr>
-     <tr>
-       <td>Completed Bachelor of Science in Computer Science and Engineering at Metropolitan University, Sylhet, gaining comprehensive knowledge in cutting-edge technologies and practices.</td>
-        <td>As a Technical Support Engineer at WPManageNinja, I excel in WordPress, managing diverse customer interactions, troubleshooting software bugs, and conducting rigorous testing. Engaged in collaborative team efforts and proficiently handling a spectrum of tech stacks, contributing to robust business solutions and ensuring client success.</td>
-     </tr>
+       <td>
+In the realm of email administration, I bring unparalleled expertise, seamlessly orchestrating the intricacies of Linux, PowerMTA, Google Workspace, Office365, Mailchimp, SMTP, WordPress email, and WP Mail SMTP. Elevate your communication strategy with precision-tailored solutions, ensuring flawless delivery and inbox optimization. From crafting compelling email marketing campaigns to fine-tuning SMTP configurations, I navigate the email landscape with finesse. Trust in my proficiency to synchronize the power of technology, creating an email ecosystem that not only communicates but captivates. Let's redefine your email experience and forge connections that resonate.
+                <br/><br/>
+                Relevant Projects:<br/>
+                <ol>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                </ol>
+           </td>
+        </tr>
     </table>
 </div>
 
 
-
 <div align="center">
     <table >
+        <tr>
+            <td>Cloud Services</td>
+        </tr>
      <tr>
-        <td><b>WordPress</b></td>
-        <td><b>Security</b></td>
-     </tr>
-     <tr>
-       <td>Completed Bachelor of Science in Computer Science and Engineering at Metropolitan University, Sylhet, gaining comprehensive knowledge in cutting-edge technologies and practices.</td>
-        <td>As a Technical Support Engineer at WPManageNinja, I excel in WordPress, managing diverse customer interactions, troubleshooting software bugs, and conducting rigorous testing. Engaged in collaborative team efforts and proficiently handling a spectrum of tech stacks, contributing to robust business solutions and ensuring client success.</td>
-     </tr>
+       <td>
+Embark on a cloud journey tailored to perfection with my comprehensive expertise in AWS, GCP, Oracle, Alibaba, and Azure. Navigate the cloud seamlessly as I optimize VM configurations, manage storage buckets, and fine-tune servers for peak performance. Whether you're looking to migrate, scale, or streamline operations, I orchestrate the intricate dance of cloud services with finesse. Trust in my proficiency to transcend the complexities of cloud computing, ensuring a secure, scalable, and future-ready digital infrastructure for your enterprise. Elevate your business to new heights with cloud solutions that go beyond expectations.
+                <br/><br/>
+                Relevant Projects:<br/>
+                <ol>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                </ol>
+           </td>
+        </tr>
     </table>
 </div>
 
 
+<div align="center">
+    <table >
+        <tr>
+            <td>WordPress</td>
+        </tr>
+     <tr>
+       <td>
+Dive into a world of limitless possibilities with my WordPress expertise. From sculpting captivating websites with themes and plugins to bespoke customizations and bug fixes, I craft digital experiences that captivate and convert. Elevate performance, fortify security, and seamlessly integrate WordPress email solutions like WP Mail SMTP. I'm not just a developer; I'm your WordPress ally, offering steadfast support and tailoring custom solutions that transform your online presence. Let's redefine what's possible with WordPress and propel your digital aspirations to new heights.
+                <br/><br/>
+                Relevant Projects:<br/>
+                <ol>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                </ol>
+           </td>
+        </tr>
+    </table>
+</div>
+
 
 <div align="center">
     <table >
+        <tr>
+            <td>Marketing &amp; Automation</td>
+        </tr>
      <tr>
-        <td><b>Analytics &amp; Tracking</b></td>
-        <td><b>Miscellaneousg</b></td>
-     </tr>
-     <tr>
-       <td>Completed Bachelor of Science in Computer Science and Engineering at Metropolitan University, Sylhet, gaining comprehensive knowledge in cutting-edge technologies and practices.</td>
-        <td>As a Technical Support Engineer at WPManageNinja, I excel in WordPress, managing diverse customer interactions, troubleshooting software bugs, and conducting rigorous testing. Engaged in collaborative team efforts and proficiently handling a spectrum of tech stacks, contributing to robust business solutions and ensuring client success.</td>
-     </tr>
+       <td>
+Unlock the power of seamless marketing and automation with my expertise. From crafting compelling campaigns on Mailchimp to optimizing your WordPress and WooCommerce platforms, I bring a wealth of experience in leveraging CRM systems and email solutions like Klaviyo. Transform your digital presence with precision-targeted strategies, ensuring your message resonates with your audience. Harness the synergy of cutting-edge tools and platforms for a marketing approach that's not just efficient but irresistibly captivating. Let's elevate your brand through the art and science of marketing automation.
+                <br/><br/>
+                Relevant Projects:<br/>
+                <ol>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                </ol>
+           </td>
+        </tr>
     </table>
 </div>
+
+
+<div align="center">
+    <table >
+        <tr>
+            <td>Miscellaneous</td>
+        </tr>
+     <tr>
+       <td>
+Embark on a journey of digital excellence with my versatile expertise. From optimizing databases to decoding analytics with Google Tag Manager (GTM) and Google Analytics (GA), I sculpt data into actionable insights. Seamlessly integrate Facebook Pixel for targeted marketing precision. Navigate the intricate landscape of DNS configurations, ensuring seamless connectivity and SSL implementation for robust security. My comprehensive approach extends beyond specialties, weaving a tapestry of skills that fortify your digital foundation. Experience the assurance of a holistic expert, ready to tackle the multifaceted challenges of the digital realm.
+                <br/><br/>
+                Relevant Projects:<br/>
+                <ol>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                </ol>
+           </td>
+        </tr>
+    </table>
+</div>
+
+
 
 
 <hr>
