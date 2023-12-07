@@ -45,15 +45,12 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 ## Work History
 
 <h4> Experiences </h4>
- <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
-    <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
-    <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
-    <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
-    <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
-</a>
 
-<h4> Freelancing </h4>
-    <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be">
+WPManageninja (2022-Now) | <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
+</a>
+-------------------------|------
+Freelancing(2017-Now) | <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be">
         <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
     </a>
     
