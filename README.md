@@ -93,8 +93,8 @@ Mastering the art of server administration, I seamlessly navigate the digital la
                     <li><a href="https://ibrahimsharif.com/services/servers/cpanel-whm-configuration.html">cPanel/WHM Configuration</a></li>
                     <li><a href="https://ibrahimsharif.com/services/servers/server-stacks.html">NGINX, Apache, MySQL, and PHP assistance</a></li>
                     <li><a href="https://ibrahimsharif.com/services/servers/fix-server-issues.html">Fix Server Issues</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/servers/performance-optimization.html">Performance Optimization</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/security/index.html">Security Assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/servers/performance-optimization.html">Server Performance Optimization</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/security/index.html">Server Security Assistance</a></li>
                 </ol>
            </td>
         </tr>
@@ -115,10 +115,10 @@ In the realm of email administration, I bring unparalleled expertise, seamlessly
                 <ol>
                     <li><a href="https://ibrahimsharif.com/services/email/email-marketing-applications.html">Mailwizz, Acelle, Sendy Configuration</a></li>
                     <li><a href="https://ibrahimsharif.com/services/email/powermta-smtp-server.html">PowerMTA SMTP Server</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/spf-dkim-dmarc-bimi.html">SPF, DKIM, DMARC, BIMI Assistance</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/google-workspace.html">Google Workspace</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/office365.html">Office365</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/wordpress-smtp.html">WordPress SMTP</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/spf-dkim-dmarc-bimi.html">SPF, DKIM, DMARC, BIMI Configuration</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/google-workspace.html">Google Workspace Email Assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/office365.html">Office365 Email Assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/wordpress-smtp.html">WordPress SMTP Email Assistance</a></li>
                 </ol>
            </td>
         </tr>
@@ -137,9 +137,11 @@ Embark on a cloud journey tailored to perfection with my comprehensive expertise
                 <br/><br/>
                 Relevant Projects:<br/>
                 <ol>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/clouds/vm-deployment.html">Virtual Machine Deployment</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/clouds/container-orchestration.html">Container Orchestration</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/clouds/iam-assistance.html">Identity Access Management</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/clouds/content-delivery-network.html">DNS and Content Delivery Network Management</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/clouds/serverless-computing.html">Serverless Computing</a></li>
                 </ol>
            </td>
         </tr>
@@ -158,9 +160,11 @@ Dive into a world of limitless possibilities with my WordPress expertise. From s
                 <br/><br/>
                 Relevant Projects:<br/>
                 <ol>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/wordpress/full-website-creation.html">Full Website Creation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/wordpress/fix-wordpress-bugs.html">Fix WordPress Bugs</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/wordpress/customize-wordpress.html">WordPress Customization</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/wordpress/wordpress-automation.html">WordPress Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/security/wordpress-security-plugins.html">WordPress Security</a></li>
                 </ol>
            </td>
         </tr>
