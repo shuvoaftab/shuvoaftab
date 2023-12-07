@@ -84,15 +84,17 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
         <tr>
             <td>❏ Server Administration</td>
         </tr>
-     <tr>
-       <td>
+        <tr>
+            <td>
 Mastering the art of server administration, I seamlessly navigate the digital landscape with expertise in Linux, Nginx, Apache, PHP, MySQL, and VPS configurations. Elevate your online presence with optimized server environments, ensuring swift and secure data delivery. From fine-tuning performance to troubleshooting, I orchestrate a symphony of technologies to keep your servers running at peak efficiency. Trust in my proficiency to manage the heartbeat of your digital infrastructure, providing stability and scalability for your web applications. Let's craft a server solution that transcends expectations and propels your online presence to new heights.
                 <br/><br/>
                 Relevant Projects:<br/>
                 <ol>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/servers/cpanel-whm-configuration.html">cPanel/WHM Configuration</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/servers/server-stacks.html">NGINX, Apache, MySQL, and PHP assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/servers/fix-server-issues.html">Fix Server Issues</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/servers/performance-optimization.html">Performance Optimization</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/security/index.html">Security Assistance</a></li>
                 </ol>
            </td>
         </tr>
@@ -103,17 +105,20 @@ Mastering the art of server administration, I seamlessly navigate the digital la
 <div align="center">
     <table >
         <tr>
-            <td>⌘  Email Administration</td>
+            <td>❏  Email Administration</td>
         </tr>
-     <tr>
-       <td>
+        <tr>
+           <td>
 In the realm of email administration, I bring unparalleled expertise, seamlessly orchestrating the intricacies of Linux, PowerMTA, Google Workspace, Office365, Mailchimp, SMTP, WordPress email, and WP Mail SMTP. Elevate your communication strategy with precision-tailored solutions, ensuring flawless delivery and inbox optimization. From crafting compelling email marketing campaigns to fine-tuning SMTP configurations, I navigate the email landscape with finesse. Trust in my proficiency to synchronize the power of technology, creating an email ecosystem that not only communicates but captivates. Let's redefine your email experience and forge connections that resonate.
                 <br/><br/>
                 Relevant Projects:<br/>
                 <ol>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/email-marketing-applications.html">Mailwizz, Acelle, Sendy Configuration</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/powermta-smtp-server.html">PowerMTA SMTP Server</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/spf-dkim-dmarc-bimi.html">SPF, DKIM, DMARC, BIMI Assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/google-workspace.html">Google Workspace</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/office365.html">Office365</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/wordpress-smtp.html">WordPress SMTP</a></li>
                 </ol>
            </td>
         </tr>
@@ -124,7 +129,7 @@ In the realm of email administration, I bring unparalleled expertise, seamlessly
 <div align="center">
     <table >
         <tr>
-            <td>Cloud Services</td>
+            <td>❏ Cloud Services</td>
         </tr>
      <tr>
        <td>
@@ -145,7 +150,7 @@ Embark on a cloud journey tailored to perfection with my comprehensive expertise
 <div align="center">
     <table >
         <tr>
-            <td>WordPress</td>
+            <td>❏ WordPress</td>
         </tr>
      <tr>
        <td>
@@ -166,7 +171,7 @@ Dive into a world of limitless possibilities with my WordPress expertise. From s
 <div align="center">
     <table >
         <tr>
-            <td>Marketing &amp; Automation</td>
+            <td>❏ Marketing &amp; Automation</td>
         </tr>
      <tr>
        <td>
@@ -187,7 +192,7 @@ Unlock the power of seamless marketing and automation with my expertise. From cr
 <div align="center">
     <table >
         <tr>
-            <td>Miscellaneous</td>
+            <td>❏ Miscellaneous</td>
         </tr>
      <tr>
        <td>
