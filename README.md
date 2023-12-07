@@ -82,7 +82,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 <div align="center">
     <table >
         <tr>
-            <td>Server Administration</td>
+            <td>❏ Server Administration</td>
         </tr>
      <tr>
        <td>
@@ -103,7 +103,7 @@ Mastering the art of server administration, I seamlessly navigate the digital la
 <div align="center">
     <table >
         <tr>
-            <td>Email Administration</td>
+            <td>⌘  Email Administration</td>
         </tr>
      <tr>
        <td>
