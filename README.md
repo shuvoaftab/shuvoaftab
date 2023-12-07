@@ -161,10 +161,10 @@ Dive into a world of limitless possibilities with my WordPress expertise. From s
                 Relevant Projects:<br/>
                 <ol>
                     <li><a href="https://ibrahimsharif.com/services/wordpress/full-website-creation.html">Full Website Creation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/wordpress/fix-wordpress-bugs.html">Fix WordPress Bugs</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/wordpress/customize-wordpress.html">WordPress Customization</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/wordpress/wordpress-automation.html">WordPress Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/security/wordpress-security-plugins.html">WordPress Security</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/wordpress/fix-wordpress-bugs.html">Troubleshoot and Fix WordPress Bugs</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/wordpress/customize-wordpress.html">WordPress Themes and Plugins Customization</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/wordpress/wordpress-automation.html">WordPress Data and Tasks Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/security/wordpress-security-plugins.html">WordPress Security: Firewalls and Malwares</a></li>
                 </ol>
            </td>
         </tr>
@@ -183,9 +183,11 @@ Unlock the power of seamless marketing and automation with my expertise. From cr
                 <br/><br/>
                 Relevant Projects:<br/>
                 <ol>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/klaviyo.html">Klaviyo Automation Assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/active-campaign.html">Mailchimp Automation Assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation and Workflow</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/automation/hubspot.html">Hubspot Automation Assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/email/powermta-smtp-server.html">Cold Marketing Servers</a></li>
                 </ol>
            </td>
         </tr>
@@ -204,9 +206,11 @@ Embark on a journey of digital excellence with my versatile expertise. From opti
                 <br/><br/>
                 Relevant Projects:<br/>
                 <ol>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/misc/custom-services.html">Custom Solutions</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/misc/ssl-certificates.html">SSL Certificates Installation and Troubleshooting</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/misc/dns-issues.html">DNS, SPF, DKIM, A, MX, TXT Assistance</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/misc/fatal-errors.html">Debug and Fix Critical &amp; Fatal Errors</a></li>
+                    <li><a href="https://ibrahimsharif.com/services/database/mysql-administration.html">MySQL Administration</a></li>
                 </ol>
            </td>
         </tr>
