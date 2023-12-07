@@ -5,9 +5,9 @@
     <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
 </p>
 
-<h2 align="center">Peace be upon you ❤</h2>
+<h2 align="center">PEACE BE UPON YOU ❤</h2>
 <h3>
-A results-driven Computer Science and Engineering professional with a B.Sc. degree, specializing in WordPress, server administration, and diverse web-based solutions. Seeking a challenging role to leverage expertise in technical support, software troubleshooting, and collaborative teamwork. Proficient in multiple tech stacks, including Linux servers and networking with a Mikrotik certification. A top-rated freelancer on Upwork, I bring a proven track record of delivering high-quality projects. Eager to contribute innovative solutions and enhance business outcomes through continuous learning and application of cutting-edge technologies.
+A results-driven Computer Science and Engineering professional with a B.Sc. degree, specializing in WordPress, Server Administration, and diverse web-based solutions. Seeking a challenging role to leverage expertise in Technical Support, Software Troubleshooting, and Collaborative Teamwork. Proficient in multiple tech stacks, including Linux Servers and Networking with a Mikrotik Certification. A top-rated Freelancer on Upwork, I bring a proven track record of delivering high-quality projects. Eager to contribute innovative solutions and enhance business outcomes through continuous learning and application of cutting-edge technologies.
 </h3>
 
 <!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
@@ -19,10 +19,10 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
         <img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logoColor=white&labelColor=283593&logo=Linkedin"/>
     </a>
     <a href="https://ibrahimsharif.com" target="_blank">
-        <img src="https://img.shields.io/badge/-ibrahimsharif.com-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Google-Chrome"/>
+        <img src="https://img.shields.io/badge/-ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=CircuitVerse"/>
     </a>
     <a href="mailto:contact@ibrahimsharif.com" target="_blank">
-        <img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Gmail"/>
+        <img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=Mail.Ru"/>
     </a>
 </h1>
 
@@ -37,8 +37,8 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 ![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
 ![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=wordpress)
 ![Performance Optimization](https://img.shields.io/badge/-Performance%20Optimization-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Amazon+DynamoDB)
-![Website Migration](https://img.shields.io/badge/-Website%20Migration-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=bookstack)
-![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=shopify)
+![Migration](https://img.shields.io/badge/-Website%20Migration-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=AWS-Organizations)
+![Ecommerce Solutions](https://img.shields.io/badge/-Ecommerce%20Solutions-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=shopify)
 ![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=minutemailer)
 ![PowerMTA](https://img.shields.io/badge/-PowerMTA%20Infrastructures-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=TryHackMe)
 ![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=Simple+Analytics)
@@ -51,7 +51,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 <!---##------------------------------------------  Certifications  ----------------------------------------------##--->
 ## Certifications
 <p>
-    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
 </p>
 
 <hr>
@@ -61,15 +61,15 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <h4> Experiences </h4>
  <a href="https://wpmanageninja.com">
-    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
-    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
-    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
-    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
+    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
+    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
+    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
+    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
 </a>
 
 <h4> Freelancing </h4>
     <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be">
-        <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
+        <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
     </a>
     
 <hr>
@@ -78,8 +78,8 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <p align="center">
 <a href="https://github.com/shuvoaftab">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <hr>
