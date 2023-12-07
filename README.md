@@ -30,22 +30,6 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 </h1>
 
 
-<!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
-## Assistance Provided with 
-![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
-![Networking](https://img.shields.io/badge/-Networking-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=fastlane)
-![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
-![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=wordpress)
-![Performance Optimization](https://img.shields.io/badge/-Performance%20Optimization-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Amazon+DynamoDB)
-![Migration](https://img.shields.io/badge/-Website%20Migration-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=AWS-Organizations)
-![Ecommerce Solutions](https://img.shields.io/badge/-Ecommerce%20Solutions-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=shopify)
-![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=minutemailer)
-![PowerMTA](https://img.shields.io/badge/-PowerMTA%20Infrastructures-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=TryHackMe)
-![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=Simple+Analytics)
-![Web Automation](https://img.shields.io/badge/-Web%20Automation-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=amp)
-
-<hr>
-
 
 
 <!---##------------------------------------------  Certifications  ----------------------------------------------##--->
@@ -75,6 +59,23 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
     
 <hr>
 
+
+<!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
+## Assistance Provided with 
+![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
+![Networking](https://img.shields.io/badge/-Networking-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=fastlane)
+![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
+![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=wordpress)
+![Performance Optimization](https://img.shields.io/badge/-Performance%20Optimization-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Amazon+DynamoDB)
+![Migration](https://img.shields.io/badge/-Website%20Migration-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=AWS-Organizations)
+![Ecommerce Solutions](https://img.shields.io/badge/-Ecommerce%20Solutions-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=shopify)
+![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=minutemailer)
+![PowerMTA](https://img.shields.io/badge/-PowerMTA%20Infrastructures-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=TryHackMe)
+![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=Simple+Analytics)
+![Web Automation](https://img.shields.io/badge/-Web%20Automation-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=amp)
+
+<hr>
+
 <!---##------------------------------------------  Keypoints of Expertise    ----------------------------------------------##--->
 
 <div align="center">
@@ -85,7 +86,14 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
      </tr>
      <tr>
        <td>Unlock the power of seamless marketing and automation with my expertise. From crafting compelling campaigns on Mailchimp to optimizing your WordPress and WooCommerce platforms, I bring a wealth of experience in leveraging CRM systems and email solutions like Klaviyo. Transform your digital presence with precision-targeted strategies, ensuring your message resonates with your audience. Harness the synergy of cutting-edge tools and platforms for a marketing approach that's not just efficient but irresistibly captivating. Let's elevate your brand through the art and science of marketing automation.</td>
-        <td>Embark on a cloud journey tailored to perfection with my comprehensive expertise in AWS, GCP, Oracle, Alibaba, and Azure. Navigate the cloud seamlessly as I optimize VM configurations, manage storage buckets, and fine-tune servers for peak performance. Whether you're looking to migrate, scale, or streamline operations, I orchestrate the intricate dance of cloud services with finesse. Trust in my proficiency to transcend the complexities of cloud computing, ensuring a secure, scalable, and future-ready digital infrastructure for your enterprise. Elevate your business to new heights with cloud solutions that go beyond expectations.</td>
+        <td>
+            Relevant Projects:
+            <ol>
+                <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+                <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation</a></li>
+            </ol>
+        </td>
      </tr>
     </table>
 </div>
