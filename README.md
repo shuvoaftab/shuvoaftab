@@ -21,7 +21,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
     <a href="https://www.linkedin.com/in/ibrahimsharif/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logoColor=white&labelColor=283593&logo=Linkedin"/>
     </a>
-    <a href="https://ibrahimsharif.com" target="_blank">
+    <a href="https://ibrahimsharif.com?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage" target="_blank">
         <img src="https://img.shields.io/badge/-ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=CircuitVerse"/>
     </a>
     <a href="mailto:contact@ibrahimsharif.com" target="_blank">
@@ -45,7 +45,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 ## Work History
 
 <h4> Experiences </h4>
- <a href="https://wpmanageninja.com">
+ <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
     <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
     <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
     <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
@@ -87,15 +87,26 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
         <tr>
             <td>
 Mastering the art of server administration, I seamlessly navigate the digital landscape with expertise in Linux, Nginx, Apache, PHP, MySQL, and VPS configurations. Elevate your online presence with optimized server environments, ensuring swift and secure data delivery. From fine-tuning performance to troubleshooting, I orchestrate a symphony of technologies to keep your servers running at peak efficiency. Trust in my proficiency to manage the heartbeat of your digital infrastructure, providing stability and scalability for your web applications. Let's craft a server solution that transcends expectations and propels your online presence to new heights.
-                <br/><br/>
-                Relevant Projects:<br/>
-                <ol>
-                    <li><a href="https://ibrahimsharif.com/services/servers/cpanel-whm-configuration.html">cPanel/WHM Configuration</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/servers/server-stacks.html">NGINX, Apache, MySQL, and PHP assistance</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/servers/fix-server-issues.html">Fix Server Issues</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/servers/performance-optimization.html">Server Performance Optimization</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/security/index.html">Server Security Assistance</a></li>
-                </ol>
+    <br/><br/>
+    Relevant Projects:<br/>
+    <ol>
+        <li>
+            <a href="https://ibrahimsharif.com/services/servers/cpanel-whm-configuration.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                cPanel/WHM Configuration</a>
+        </li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/servers/server-stacks.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                NGINX, Apache, MySQL, and PHP assistance</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/servers/fix-server-issues.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Fix Server Issues</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/servers/performance-optimization.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Server Performance Optimization</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/security/index.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Server Security Assistance</a></li>
+    </ol>
            </td>
         </tr>
     </table>
@@ -110,16 +121,28 @@ Mastering the art of server administration, I seamlessly navigate the digital la
         <tr>
            <td>
 In the realm of email administration, I bring unparalleled expertise, seamlessly orchestrating the intricacies of Linux, PowerMTA, Google Workspace, Office365, Mailchimp, SMTP, WordPress email, and WP Mail SMTP. Elevate your communication strategy with precision-tailored solutions, ensuring flawless delivery and inbox optimization. From crafting compelling email marketing campaigns to fine-tuning SMTP configurations, I navigate the email landscape with finesse. Trust in my proficiency to synchronize the power of technology, creating an email ecosystem that not only communicates but captivates. Let's redefine your email experience and forge connections that resonate.
-                <br/><br/>
-                Relevant Projects:<br/>
-                <ol>
-                    <li><a href="https://ibrahimsharif.com/services/email/email-marketing-applications.html">Mailwizz, Acelle, Sendy Configuration</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/powermta-smtp-server.html">PowerMTA SMTP Server</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/spf-dkim-dmarc-bimi.html">SPF, DKIM, DMARC, BIMI Configuration</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/google-workspace.html">Google Workspace Email Assistance</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/office365.html">Office365 Email Assistance</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/wordpress-smtp.html">WordPress SMTP Email Assistance</a></li>
-                </ol>
+        <br/><br/>
+        Relevant Projects:<br/>
+        <ol>
+            <li>
+                <a href="https://ibrahimsharif.com/services/email/email-marketing-applications.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                    Mailwizz, Acelle, Sendy Configuration</a></li>
+            <li>
+                <a href="https://ibrahimsharif.com/services/email/powermta-smtp-server.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                    PowerMTA SMTP Server</a></li>
+            <li>
+                <a href="https://ibrahimsharif.com/services/email/spf-dkim-dmarc-bimi.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                    SPF, DKIM, DMARC, BIMI Configuration</a></li>
+            <li>
+                <a href="https://ibrahimsharif.com/services/email/google-workspace.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                    Google Workspace Email Assistance</a></li>
+            <li>
+                <a href="https://ibrahimsharif.com/services/email/office365.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                    Office365 Email Assistance</a></li>
+            <li>
+                <a href="https://ibrahimsharif.com/services/email/wordpress-smtp.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                    WordPress SMTP Email Assistance</a></li>
+        </ol>
            </td>
         </tr>
     </table>
@@ -131,18 +154,28 @@ In the realm of email administration, I bring unparalleled expertise, seamlessly
         <tr>
             <td>❏ Cloud Services</td>
         </tr>
-     <tr>
+        <tr>
        <td>
 Embark on a cloud journey tailored to perfection with my comprehensive expertise in AWS, GCP, Oracle, Alibaba, and Azure. Navigate the cloud seamlessly as I optimize VM configurations, manage storage buckets, and fine-tune servers for peak performance. Whether you're looking to migrate, scale, or streamline operations, I orchestrate the intricate dance of cloud services with finesse. Trust in my proficiency to transcend the complexities of cloud computing, ensuring a secure, scalable, and future-ready digital infrastructure for your enterprise. Elevate your business to new heights with cloud solutions that go beyond expectations.
-                <br/><br/>
-                Relevant Projects:<br/>
-                <ol>
-                    <li><a href="https://ibrahimsharif.com/services/clouds/vm-deployment.html">Virtual Machine Deployment</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/clouds/container-orchestration.html">Container Orchestration</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/clouds/iam-assistance.html">Identity Access Management</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/clouds/content-delivery-network.html">DNS and Content Delivery Network Management</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/clouds/serverless-computing.html">Serverless Computing</a></li>
-                </ol>
+    <br/><br/>
+    Relevant Projects:<br/>
+    <ol>
+        <li>
+            <a href="https://ibrahimsharif.com/services/clouds/vm-deployment.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Virtual Machine Deployment</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/clouds/container-orchestration.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Container Orchestration</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/clouds/iam-assistance.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Identity Access Management</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/clouds/content-delivery-network.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                DNS and Content Delivery Network Management</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/clouds/serverless-computing.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Serverless Computing</a></li>
+    </ol>
            </td>
         </tr>
     </table>
@@ -154,18 +187,28 @@ Embark on a cloud journey tailored to perfection with my comprehensive expertise
         <tr>
             <td>❏ WordPress</td>
         </tr>
-     <tr>
+        <tr>
        <td>
 Dive into a world of limitless possibilities with my WordPress expertise. From sculpting captivating websites with themes and plugins to bespoke customizations and bug fixes, I craft digital experiences that captivate and convert. Elevate performance, fortify security, and seamlessly integrate WordPress email solutions like WP Mail SMTP. I'm not just a developer; I'm your WordPress ally, offering steadfast support and tailoring custom solutions that transform your online presence. Let's redefine what's possible with WordPress and propel your digital aspirations to new heights.
-                <br/><br/>
-                Relevant Projects:<br/>
-                <ol>
-                    <li><a href="https://ibrahimsharif.com/services/wordpress/full-website-creation.html">Full Website Creation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/wordpress/fix-wordpress-bugs.html">Troubleshoot and Fix WordPress Bugs</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/wordpress/customize-wordpress.html">WordPress Themes and Plugins Customization</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/wordpress/wordpress-automation.html">WordPress Data and Tasks Automation</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/security/wordpress-security-plugins.html">WordPress Security: Firewalls and Malwares</a></li>
-                </ol>
+    <br/><br/>
+    Relevant Projects:<br/>
+    <ol>
+        <li>
+            <a href="https://ibrahimsharif.com/services/wordpress/full-website-creation.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Full Website Creation</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/wordpress/fix-wordpress-bugs.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Troubleshoot and Fix WordPress Bugs</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/wordpress/customize-wordpress.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                WordPress Themes and Plugins Customization</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/wordpress/wordpress-automation.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                WordPress Data and Tasks Automation</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/security/wordpress-security-plugins.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                WordPress Security: Firewalls and Malwares</a></li>
+    </ol>
            </td>
         </tr>
     </table>
@@ -180,15 +223,25 @@ Dive into a world of limitless possibilities with my WordPress expertise. From s
      <tr>
        <td>
 Unlock the power of seamless marketing and automation with my expertise. From crafting compelling campaigns on Mailchimp to optimizing your WordPress and WooCommerce platforms, I bring a wealth of experience in leveraging CRM systems and email solutions like Klaviyo. Transform your digital presence with precision-targeted strategies, ensuring your message resonates with your audience. Harness the synergy of cutting-edge tools and platforms for a marketing approach that's not just efficient but irresistibly captivating. Let's elevate your brand through the art and science of marketing automation.
-                <br/><br/>
-                Relevant Projects:<br/>
-                <ol>
-                    <li><a href="https://ibrahimsharif.com/services/automation/klaviyo.html">Klaviyo Automation Assistance</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/active-campaign.html">Mailchimp Automation Assistance</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/zapier.html">Zapier Automation and Workflow</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/automation/hubspot.html">Hubspot Automation Assistance</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/email/powermta-smtp-server.html">Cold Marketing Servers</a></li>
-                </ol>
+    <br/><br/>
+    Relevant Projects:<br/>
+    <ol>
+        <li>
+            <a href="https://ibrahimsharif.com/services/automation/klaviyo.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Klaviyo Automation Assistance</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/automation/active-campaign.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Mailchimp Automation Assistance</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/automation/zapier.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Zapier Automation and Workflow</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/automation/hubspot.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Hubspot Automation Assistance</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/email/powermta-smtp-server.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Cold Marketing Servers</a></li>
+    </ol>
            </td>
         </tr>
     </table>
@@ -203,15 +256,25 @@ Unlock the power of seamless marketing and automation with my expertise. From cr
      <tr>
        <td>
 Embark on a journey of digital excellence with my versatile expertise. From optimizing databases to decoding analytics with Google Tag Manager (GTM) and Google Analytics (GA), I sculpt data into actionable insights. Seamlessly integrate Facebook Pixel for targeted marketing precision. Navigate the intricate landscape of DNS configurations, ensuring seamless connectivity and SSL implementation for robust security. My comprehensive approach extends beyond specialties, weaving a tapestry of skills that fortify your digital foundation. Experience the assurance of a holistic expert, ready to tackle the multifaceted challenges of the digital realm.
-                <br/><br/>
-                Relevant Projects:<br/>
-                <ol>
-                    <li><a href="https://ibrahimsharif.com/services/misc/custom-services.html">Custom Solutions</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/misc/ssl-certificates.html">SSL Certificates Installation and Troubleshooting</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/misc/dns-issues.html">DNS, SPF, DKIM, A, MX, TXT Assistance</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/misc/fatal-errors.html">Debug and Fix Critical &amp; Fatal Errors</a></li>
-                    <li><a href="https://ibrahimsharif.com/services/database/mysql-administration.html">MySQL Administration</a></li>
-                </ol>
+    <br/><br/>
+    Relevant Projects:<br/>
+    <ol>
+        <li>
+            <a href="https://ibrahimsharif.com/services/misc/custom-services.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Custom Solutions</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/misc/ssl-certificates.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                SSL Certificates Installation and Troubleshooting</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/misc/dns-issues.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                DNS, SPF, DKIM, A, MX, TXT Assistance</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/misc/fatal-errors.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                Debug and Fix Critical &amp; Fatal Errors</a></li>
+        <li>
+            <a href="https://ibrahimsharif.com/services/database/mysql-administration.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
+                MySQL Administration</a></li>
+    </ol>
            </td>
         </tr>
     </table>
