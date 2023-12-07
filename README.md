@@ -29,10 +29,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
     </a>
 </h1>
 
-<hr>
 
-
-    
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
 ## Assistance Provided with 
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
@@ -52,8 +49,9 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 
 <!---##------------------------------------------  Certifications  ----------------------------------------------##--->
-## Certifications
+## Education & Certifications
 <p>
+    <img height="120em" src="https://github.com/shuvoaftab/ibrahimsharif.com/blob/main/assets/img/photos/certifications/Metropolitan-University-CSE-Certificate.jpg" alt="Ibrahim Sharif CSE CERTIFICATE" />
     <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
 </p>
 
