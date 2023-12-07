@@ -46,13 +46,8 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <h4> Experiences </h4>
 
-WPManageninja (2022-Now) | <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
-    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
-</a>
--------------------------|------
-Freelancing(2017-Now) | <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be">
-        <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
-    </a>
+WPManageninja (2022 - Now) | <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" /></a>
+Freelancing (2017 - Now) | <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a>
     
 <hr>
 
