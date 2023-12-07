@@ -59,16 +59,17 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <!---##------------------------------------------  Past Jobs  ----------------------------------------------##--->
 ## Work History
-<!--p>
 
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
-</p-->
-
-<h4> #1. Support Engineer </h4>
+<h4> Experiences </h4>
 <!--     <a href="https://authlab.io/about/#team:~:text=Digital%20Marketer-,Ibrahim%20Sharif,-Support%20Engineer"><img height="100em"   src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/authlab_logo.png" alt="Ibrahim Sharif Authlab" /></a> -->
-    <a href="https://wpmanageninja.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" /></a>
-    <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a>
+    <a href="https://wpmanageninja.com">
+        <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
+        <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
+        <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
+    </a>
+    <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be">
+        <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
+    </a>
 
 <!--h4> #2. Product Documentation Writer < Fluent CRM, Forms, SMTP > </h4>
     <a href="https://fluentcrm.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" /></a>
