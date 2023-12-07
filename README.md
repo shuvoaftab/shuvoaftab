@@ -33,17 +33,17 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
     
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
 ## Assistance Providing with
-![Server Administration](https://img.shields.io/badge/-Server%20Administration-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Serverless)
+![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
 ![Networking](https://img.shields.io/badge/-Networking-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=fastlane)
-![IT Support](https://img.shields.io/badge/-IT%20Support-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Hackaday)
-![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=wordpress)
-![Website Performance](https://img.shields.io/badge/-Website%20Performance-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=Amazon+DynamoDB)
+![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
+![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-053B50?style=flat-square&logoColor=white&labelColor=00363a&logo=wordpress)
+![Website Performance](https://img.shields.io/badge/-Website%20Performance-dd2c00?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Amazon+DynamoDB)
 ![Website Migration](https://img.shields.io/badge/-Website%20Migration-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=bookstack)
-![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=shopify)
-![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=minutemailer)
-![PowerMTA](https://img.shields.io/badge/-PowerMTA%20Infrastructures-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=TryHackMe)
-![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Simple+Analytics)
-![Web Automation](https://img.shields.io/badge/-Web%20Automation-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=amp)
+![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-dd2c00?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=shopify)
+![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-053B50?style=flat-square&logoColor=white&labelColor=00363a&logo=minutemailer)
+![PowerMTA](https://img.shields.io/badge/-PowerMTA%20Infrastructures-dd2c00?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=TryHackMe)
+![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-053B50?style=flat-square&logoColor=white&labelColor=00363a&logo=Simple+Analytics)
+![Web Automation](https://img.shields.io/badge/-Web%20Automation-dd2c00?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=amp)
 
 <hr>
 
