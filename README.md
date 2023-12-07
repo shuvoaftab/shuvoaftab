@@ -51,7 +51,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 <!---##------------------------------------------  Certifications  ----------------------------------------------##--->
 ## Certifications
 <p>
-    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
 </p>
 
 <hr>
@@ -61,38 +61,30 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <h4> Experiences </h4>
  <a href="https://wpmanageninja.com">
-    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
-    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
-    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
-    <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
+    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
+    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
+    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
+    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
 </a>
 
 <h4> Freelancing </h4>
     <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be">
-        <img height="150em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
+        <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
     </a>
     
 <hr>
 
-<!---##------------------------------------------  Stats   ----------------------------------------------##--->
+<!---##------------------------------------------  Stats and Streaks  ----------------------------------------------##--->
 
 <p align="center">
-<a href="https://github.com/shuvoaftab">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+    <a href="https://github.com/shuvoaftab">
+        <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab&count_private=true&theme=radical" alt="Ibrahim Sharif" />
+    </a>
 </p>
+
 <hr>
-
-
-<!---##------------------------------------------  Streaks    ----------------------------------------------##--->
-<p align="center">
-  <a href="https://github.com/shuvoaftab">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab&count_private=true&theme=radical" alt="Ibrahim Sharif" />
-  </a>
-</p>
-<hr>
-
 
 <!---##------------------------------------------  Trophies    ----------------------------------------------##--->
 <p align="center">
