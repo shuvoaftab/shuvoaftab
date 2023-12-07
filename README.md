@@ -4,11 +4,9 @@
 <h1 align="center">Peace be upon you ❤<br/>
     <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
 </h1>
-<!--p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/githubx300.jpg" alt="Ibrahim Sharif" />
-</p-->
+
 <p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
+    <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
 </p>
 
 <p>
@@ -17,15 +15,19 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
 <h1 align="center"> 
-<a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/" target="_blank"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logoColor=white&labelColor=33691e&logo=upwork"/></a>
-<a href="https://www.linkedin.com/in/ibrahimsharif/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logoColor=white&labelColor=283593&logo=Linkedin"/></a>
+    <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/" target="_blank">
+        <img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logoColor=white&labelColor=33691e&logo=upwork"/>
+    </a>
+    <a href="https://www.linkedin.com/in/ibrahimsharif/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logoColor=white&labelColor=283593&logo=Linkedin"/>
+    </a>
+    <a href="https://ibrahimsharif.com" target="_blank">
+        <img src="https://img.shields.io/badge/-ibrahimsharif.com-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Google-Chrome"/>
+    </a>
+    <a href="mailto:contact@ibrahimsharif.com" target="_blank">
+        <img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Gmail"/>
+    </a>
 </h1>
-
-<p align="center"> 
-<a href="https://ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-ibrahimsharif.com-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Google-Chrome"/></a>
-<a href="mailto:contact@ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Gmail"/></a>
-
-</p>
 
 <hr>
 
@@ -52,7 +54,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 <!---##------------------------------------------  Certifications  ----------------------------------------------##--->
 ## Certifications
 <p>
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
+    <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
 </p>
 
 <hr>
@@ -68,7 +70,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
     <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
 </a>
 
-<h4> #2. Freelancing </h4>
+<h4> Freelancing </h4>
     <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be">
         <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" />
     </a>
