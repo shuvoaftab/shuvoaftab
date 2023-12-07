@@ -1,17 +1,14 @@
 <!--  Todo: Rearrange the portfolio Images-->
 <!---##------------------------------------------  Introduction    ----------------------------------------------##--->
 
-<h1 align="center">Peace be upon you ❤<br/>
-    <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
-</h1>
-
 <p align="center">
     <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
 </p>
 
-<p>
+<h2 align="center">Peace be upon you ❤</h2>
+<h3>
 A results-driven Computer Science and Engineering professional with a B.Sc. degree, specializing in WordPress, server administration, and diverse web-based solutions. Seeking a challenging role to leverage expertise in technical support, software troubleshooting, and collaborative teamwork. Proficient in multiple tech stacks, including Linux servers and networking with a Mikrotik certification. A top-rated freelancer on Upwork, I bring a proven track record of delivering high-quality projects. Eager to contribute innovative solutions and enhance business outcomes through continuous learning and application of cutting-edge technologies.
-</p>
+</h3>
 
 <!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
 <h1 align="center"> 
@@ -34,7 +31,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
     
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
-## Assistance Provided with
+## Assistance Provided with <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
 ![Networking](https://img.shields.io/badge/-Networking-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=fastlane)
 ![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
