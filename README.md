@@ -42,17 +42,6 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <hr>
 
-<!---##------------------------------------------  Past Jobs  ----------------------------------------------##--->
-## Work History
-
-Year & Concentration              | WorkPlace
-----------------------------------|------
-Support Engineer (2022 - Now)     | <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" /></a>
-Freelancing (2017 - Now) | <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a>
-    
-<hr>
-
-
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
 ## Assistance Focused On 
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
