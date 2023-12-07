@@ -34,15 +34,15 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
 ## Assistance Providing with
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
-![Networking](https://img.shields.io/badge/-Networking-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=fastlane)
+![Networking](https://img.shields.io/badge/-Networking-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=fastlane)
 ![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
-![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-053B50?style=flat-square&logoColor=white&labelColor=00363a&logo=wordpress)
+![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=wordpress)
 ![Performance Optimization](https://img.shields.io/badge/-Performance%20Optimization-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Amazon+DynamoDB)
-![Website Migration](https://img.shields.io/badge/-Website%20Migration-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=bookstack)
+![Website Migration](https://img.shields.io/badge/-Website%20Migration-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=bookstack)
 ![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=shopify)
-![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-053B50?style=flat-square&logoColor=white&labelColor=00363a&logo=minutemailer)
+![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=minutemailer)
 ![PowerMTA](https://img.shields.io/badge/-PowerMTA%20Infrastructures-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=TryHackMe)
-![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-053B50?style=flat-square&logoColor=white&labelColor=00363a&logo=Simple+Analytics)
+![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=Simple+Analytics)
 ![Web Automation](https://img.shields.io/badge/-Web%20Automation-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=amp)
 
 <hr>
