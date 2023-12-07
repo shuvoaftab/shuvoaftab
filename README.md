@@ -75,7 +75,22 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
     
 <hr>
 
+<!---##------------------------------------------  Keypoints of Expertise    ----------------------------------------------##--->
 
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Graduation (B.Sc. CSE)</b></td>
+        <td><b>Support Engineering</b></td>
+     </tr>
+     <tr>
+       <td>Completed Bachelor of Science in Computer Science and Engineering at Metropolitan University, Sylhet, gaining comprehensive knowledge in cutting-edge technologies and practices.</td>
+        <td>As a Technical Support Engineer at WPManageNinja, I excel in WordPress, managing diverse customer interactions, troubleshooting software bugs, and conducting rigorous testing. Engaged in collaborative team efforts and proficiently handling a spectrum of tech stacks, contributing to robust business solutions and ensuring client success.</td>
+     </tr>
+    </table>
+</div>
+
+<hr>
 <!---##------------------------------------------  Topic Based Experiences    ----------------------------------------------##--->
 ## Technologies Experienced
 
