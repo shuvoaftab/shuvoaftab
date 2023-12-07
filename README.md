@@ -75,23 +75,6 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
     
 <hr>
 
-<!---##------------------------------------------  Stats and Streaks  ----------------------------------------------##--->
-
-<p align="center">
-    <a href="https://github.com/shuvoaftab">
-        <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
-        <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab&count_private=true&theme=radical" alt="Ibrahim Sharif" />
-    </a>
-</p>
-
-<hr>
-
-<!---##------------------------------------------  Trophies    ----------------------------------------------##--->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
-<hr>
-
 
 <!---##------------------------------------------  Topic Based Experiences    ----------------------------------------------##--->
 ## Technologies Experienced
@@ -120,80 +103,33 @@ Virtualization           |![VMWare](https://img.shields.io/badge/-VMWare-000000?
 Web Performance          |![PageSpeed Insights](https://img.shields.io/badge/-PageSpeed%20Insights-000000?style=flat&logoColor=white&labelColor=1faa00&logo=PageSpeed+Insights) ![GTMetrix](https://img.shields.io/badge/-GTMetrix-000000?style=flat&logoColor=white&labelColor=1faa00&logo=hyper) ![Pingdom](https://img.shields.io/badge/-Pingdom-000000?style=flat&logoColor=white&labelColor=1faa00&logo=Pingdom) ![Lighthouse](https://img.shields.io/badge/-Lighthouse-000000?style=flat&logoColor=white&labelColor=1faa00&logo=Lighthouse) 
 Web Servers              |![Apache](https://img.shields.io/badge/-Apache-000000?style=flat&logo=Apache&logoColor=ffffff&labelColor=D22128) ![NGINX](https://img.shields.io/badge/-NGINX-000000?style=flat&logo=NGINX&logoColor=ffffff&labelColor=009639) ![Varnish](https://img.shields.io/badge/-Varnish-000000?style=flat&logo=hyper&logoColor=ffffff&labelColor=d81b60) ![Litespeed](https://img.shields.io/badge/-Litespeed-000000?style=flat&logo=hyper&logoColor=ffffff&labelColor=d81b60)  ![Postfix](https://img.shields.io/badge/-Postfix-000000?style=flat&logo=gmail&logoColor=ffffff&labelColor=d81b60) ![Dovecot](https://img.shields.io/badge/-Dovecot-000000?style=flat&logo=gmail&logoColor=ffffff&labelColor=d81b60) ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=ffffff&labelColor=2496ED) ![XAMPP](https://img.shields.io/badge/-XAMPP-000000?style=flat&logo=XAMPP&logoColor=ffffff&labelColor=d50000) 
  
-<!--
-Programming Practices    |![Codeforces](https://img.shields.io/badge/-Codeforces-000000?style=flat&logo=Codeforces&logoColor=ffffff&labelColor=d50000) ![Codechef](https://img.shields.io/badge/-Codechef-000000?style=flat&logo=Codechef&logoColor=ffffff&labelColor=d50000) ![Codacy](https://img.shields.io/badge/-Codacy-000000?style=flat&logo=Codacy&logoColor=ffffff&labelColor=d50000) ![Codewars](https://img.shields.io/badge/-Codewars-000000?style=flat&logo=Codewars&logoColor=ffffff&labelColor=d50000) ![Codeberg](https://img.shields.io/badge/-Codeberg-000000?style=flat&logo=Codeberg&logoColor=ffffff&labelColor=d50000) ![Code Climate](https://img.shields.io/badge/-Code%20Climate-000000?style=flat&logo=Code+Climate&logoColor=ffffff&labelColor=d50000) ![Topcoder](https://img.shields.io/badge/-Topcoder-000000?style=flat&logo=Topcoder&logoColor=ffffff&labelColor=d50000) 
-Javascripts              |![React](https://img.shields.io/badge/-React-000000?style=flat&logoColor=339AF0&labelColor=61DAFB&logo=react) ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logoColor=339AF0&labelColor=61DAFB&logo=react) ![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logoColor=339AF0&labelColor=339933&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+Tm9kZS5qczwvdGl0bGU+PHBhdGggZD0iTTExLjk5OCwyNGMtMC4zMjEsMC0wLjY0MS0wLjA4NC0wLjkyMi0wLjI0N2wtMi45MzYtMS43MzdjLTAuNDM4LTAuMjQ1LTAuMjI0LTAuMzMyLTAuMDgtMC4zODMgYzAuNTg1LTAuMjAzLDAuNzAzLTAuMjUsMS4zMjgtMC42MDRjMC4wNjUtMC4wMzcsMC4xNTEtMC4wMjMsMC4yMTgsMC4wMTdsMi4yNTYsMS4zMzljMC4wODIsMC4wNDUsMC4xOTcsMC4wNDUsMC4yNzIsMGw4Ljc5NS01LjA3NiBjMC4wODItMC4wNDcsMC4xMzQtMC4xNDEsMC4xMzQtMC4yMzhWNi45MjFjMC0wLjA5OS0wLjA1My0wLjE5Mi0wLjEzNy0wLjI0MmwtOC43OTEtNS4wNzJjLTAuMDgxLTAuMDQ3LTAuMTg5LTAuMDQ3LTAuMjcxLDAgTDMuMDc1LDYuNjhDMi45OSw2LjcyOSwyLjkzNiw2LjgyNSwyLjkzNiw2LjkyMXYxMC4xNWMwLDAuMDk3LDAuMDU0LDAuMTg5LDAuMTM5LDAuMjM1bDIuNDA5LDEuMzkyIGMxLjMwNywwLjY1NCwyLjEwOC0wLjExNiwyLjEwOC0wLjg5VjcuNzg3YzAtMC4xNDIsMC4xMTQtMC4yNTMsMC4yNTYtMC4yNTNoMS4xMTVjMC4xMzksMCwwLjI1NSwwLjExMiwwLjI1NSwwLjI1M3YxMC4wMjEgYzAsMS43NDUtMC45NSwyLjc0NS0yLjYwNCwyLjc0NWMtMC41MDgsMC0wLjkwOSwwLTIuMDI2LTAuNTUxTDIuMjgsMTguNjc1Yy0wLjU3LTAuMzI5LTAuOTIyLTAuOTQ1LTAuOTIyLTEuNjA0VjYuOTIxIGMwLTAuNjU5LDAuMzUzLTEuMjc1LDAuOTIyLTEuNjAzbDguNzk1LTUuMDgyYzAuNTU3LTAuMzE1LDEuMjk2LTAuMzE1LDEuODQ4LDBsOC43OTQsNS4wODJjMC41NywwLjMyOSwwLjkyNCwwLjk0NCwwLjkyNCwxLjYwMyB2MTAuMTVjMCwwLjY1OS0wLjM1NCwxLjI3My0wLjkyNCwxLjYwNGwtOC43OTQsNS4wNzhDMTIuNjQzLDIzLjkxNiwxMi4zMjQsMjQsMTEuOTk4LDI0eiBNMTkuMDk5LDEzLjk5MyBjMC0xLjktMS4yODQtMi40MDYtMy45ODctMi43NjNjLTIuNzMxLTAuMzYxLTMuMDA5LTAuNTQ4LTMuMDA5LTEuMTg3YzAtMC41MjgsMC4yMzUtMS4yMzMsMi4yNTgtMS4yMzMgYzEuODA3LDAsMi40NzMsMC4zODksMi43NDcsMS42MDdjMC4wMjQsMC4xMTUsMC4xMjksMC4xOTksMC4yNDcsMC4xOTloMS4xNDFjMC4wNzEsMCwwLjEzOC0wLjAzMSwwLjE4Ni0wLjA4MSBjMC4wNDgtMC4wNTQsMC4wNzQtMC4xMjMsMC4wNjctMC4xOTZjLTAuMTc3LTIuMDk4LTEuNTcxLTMuMDc2LTQuMzg4LTMuMDc2Yy0yLjUwOCwwLTQuMDA0LDEuMDU4LTQuMDA0LDIuODMzIGMwLDEuOTI1LDEuNDg4LDIuNDU3LDMuODk1LDIuNjk1YzIuODgsMC4yODIsMy4xMDMsMC43MDMsMy4xMDMsMS4yNjljMCwwLjk4My0wLjc4OSwxLjQwMi0yLjY0MiwxLjQwMiBjLTIuMzI3LDAtMi44MzktMC41ODQtMy4wMTEtMS43NDJjLTAuMDItMC4xMjQtMC4xMjYtMC4yMTUtMC4yNTMtMC4yMTVoLTEuMTM3Yy0wLjE0MSwwLTAuMjU0LDAuMTEyLTAuMjU0LDAuMjUzIGMwLDEuNDgyLDAuODA2LDMuMjQ4LDQuNjU1LDMuMjQ4QzE3LjUwMSwxNy4wMDcsMTkuMDk5LDE1LjkxLDE5LjA5OSwxMy45OTN6Ii8+PC9zdmc+) ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=F7DF1E) ![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=F7DF1E) ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=CB3837) ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3) ![VueJS](https://img.shields.io/badge/-VueJS-000000?style=flat&labelColor=4FC08D&logo=data:image/svg%2bxml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhYiIgZGF0YS1pY29uPSJ2dWVqcyIgY2xhc3M9InN2Zy1pbmxpbmUtLWZhIGZhLXZ1ZWpzIGZhLXctMTQiIHJvbGU9ImltZyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNDQ4IDUxMiI+PHBhdGggZmlsbD0iY3VycmVudENvbG9yIiBkPSJNMzU2LjkgNjQuM0gyODBsLTU2IDg4LjYtNDgtODguNkgwTDIyNCA0NDggNDQ4IDY0LjNoLTkxLjF6bS0zMDEuMiAzMmg1My44TDIyNCAyOTQuNSAzMzguNCA5Ni4zaDUzLjhMMjI0IDM4NC41IDU1LjcgOTYuM3oiPjwvcGF0aD48L3N2Zz4=) 
-
--->
 
 <hr>
+
+
+<!---##------------------------------------------  Stats and Streaks  ----------------------------------------------##--->
+
+<p align="center">
+    <a href="https://github.com/shuvoaftab">
+        <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shuvoaftab&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shuvoaftab&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=shuvoaftab&count_private=true&theme=radical" alt="Ibrahim Sharif" />
+    </a>
+</p>
+
+<hr>
+
+<!---##------------------------------------------  Trophies    ----------------------------------------------##--->
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shuvoaftab&theme=juicyfresh&no-bg=true" />
+<hr>
+
 
 <!---##------------------------------------------  Favorite Repositories   ----------------------------------------------##--->
-### Academic Projects :
+### Favorite Repositories :
 
-<!--a href="https://github.com/shuvoaftab/androidserver">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=androidserver&theme=jolly&show_icons=true"/>
-</a-->
-
-<a href="https://github.com/shuvoaftab/project300">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=project300&theme=yeblu&show_icons=true" />
+<a href="https://github.com/shuvoaftab/travelnotes">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=travelnotes&theme=yeblu&show_icons=true" />
 </a>
 
-<a href="https://github.com/shuvoaftab/chatbot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=chatbot&theme=outrun&show_icons=true"  />
-</a>
 
-<a href="https://github.com/shuvoaftab/laravel-crud">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=laravel-crud&theme=gruvbox&show_icons=true" />
-</a>
-
-<a href="https://github.com/shuvoaftab/Bioinformatics">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=Bioinformatics&theme=omni&show_icons=true" />
-</a>
-
-<a href="https://github.com/shuvoaftab/AcademicProgramming">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=AcademicProgramming&theme=cobalt&show_icons=true"/>
-</a>
-
-<a href="https://github.com/shuvoaftab/emaildelivery">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=emaildelivery&theme=synthwave&show_icons=true" />
-</a>
-
-<a href="https://github.com/shuvoaftab/homenetwork">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=homenetwork&theme=dracula&show_icons=true" />
-</a>
-<hr>
-
-<!---##------------------------------------------  Important Projects   ----------------------------------------------##--->
-## Infrastructure Projects
-
-<h4> #1. Virtualization & Home Network </h4>
-    <a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/VirtualizationWebHostingNew.png"></a>
-<h4> #2. CentOS as a VPS in Home Network </h4>
-    <a href="https://github.com/shuvoaftab/homenetwork"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/HomeServerCentOS.png"></a>
-<h4> #3. Email Delivery Multi Channels </h4>
-    <a href="https://github.com/shuvoaftab/emaildelivery"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/EmailDeliveryPlan.png"></a>    
-<h4> #4. Android as a Server </h4>
-    <a href="https://github.com/shuvoaftab/androidserver"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/AndroidAsServer.png"></a>        
-<h4> #5. Android as a Load Balancer & Reverse Proxy </h4>
-    <a href="https://github.com/shuvoaftab/androidserver"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Diagrams/LoadBalancingHomeNetwork.png"></a>     
-
-  
-<hr>
-
-
-<!---##------------------------------------------  Youtube   ----------------------------------------------##--->
-## Youtube
-
-<a href="https://www.youtube.com/mribrahimsharif"><img width="100%" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/gif/ibrahimsharifYoutube.gif"></a>
-<hr>
-
-
-<!---##------------------------------------------  Workplace   ----------------------------------------------##--->
-## Workplace
-<p align="center">
-<img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahim-sharif-triple-monitor-workspace-shuvoaftab.jpg" alt="Ibrahim Sharif's workspace" />
-</p>
-<!--p align="center">
-<img src="https://pd.w.org/2022/08/92462f369043cce74.83253271-2048x1536.jpg" alt="Ibrahim Sharif's WordPress Workspace" />
-</p-->
