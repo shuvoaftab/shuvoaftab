@@ -82,7 +82,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
     <table >
      <tr>
         <td><b>Automation</b></td>
-        <td style="display:inline-block; width:290px"><b>Relevant Projects:</b></td>
+        <td"><b>Relevant Projects:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b></td>
      </tr>
      <tr>
        <td>Unlock the power of seamless marketing and automation with my expertise. From crafting compelling campaigns on Mailchimp to optimizing your WordPress and WooCommerce platforms, I bring a wealth of experience in leveraging CRM systems and email solutions like Klaviyo. Transform your digital presence with precision-targeted strategies, ensuring your message resonates with your audience. Harness the synergy of cutting-edge tools and platforms for a marketing approach that's not just efficient but irresistibly captivating. Let's elevate your brand through the art and science of marketing automation.</td>
