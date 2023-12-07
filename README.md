@@ -22,8 +22,8 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 </h1>
 
 <p align="center"> 
-<a href="https://ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-ibrahimsharif.com-768390?style=flat-square&logoColor=white&labelColor=6200ea&logo=Google-Chrome"/></a>
-<a href="mailto:contact@ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-768390?style=flat-square&logoColor=white&labelColor=6200ea&logo=Gmail"/></a>
+<a href="https://ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-ibrahimsharif.com-092635?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Google-Chrome"/></a>
+<a href="mailto:contact@ibrahimsharif.com" target="_blank"><img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-092635?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Gmail"/></a>
 
 </p>
 
