@@ -3,10 +3,11 @@
 
 <p align="center">
     <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
+    <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
 </p>
 
 <h2 align="center">PEACE BE UPON YOU ❤</h2>
-<img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
+
 
 <h3>
 A results-driven Computer Science and Engineering professional with a B.Sc. degree, specializing in WordPress, Server Administration, and diverse web-based solutions. Seeking a challenging role to leverage expertise in Technical Support, Software Troubleshooting, and Collaborative Teamwork. Proficient in multiple tech stacks, including Linux Servers and Networking with a Mikrotik Certification. A top-rated Freelancer on Upwork, I bring a proven track record of delivering high-quality projects. Eager to contribute innovative solutions and enhance business outcomes through continuous learning and application of cutting-edge technologies.
