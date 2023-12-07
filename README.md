@@ -6,6 +6,8 @@
 </p>
 
 <h2 align="center">PEACE BE UPON YOU ❤</h2>
+<img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
+
 <h3>
 A results-driven Computer Science and Engineering professional with a B.Sc. degree, specializing in WordPress, Server Administration, and diverse web-based solutions. Seeking a challenging role to leverage expertise in Technical Support, Software Troubleshooting, and Collaborative Teamwork. Proficient in multiple tech stacks, including Linux Servers and Networking with a Mikrotik Certification. A top-rated Freelancer on Upwork, I bring a proven track record of delivering high-quality projects. Eager to contribute innovative solutions and enhance business outcomes through continuous learning and application of cutting-edge technologies.
 </h3>
@@ -31,7 +33,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
     
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
-## Assistance Provided with <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
+## Assistance Provided with 
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
 ![Networking](https://img.shields.io/badge/-Networking-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=fastlane)
 ![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
@@ -61,10 +63,10 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <h4> Experiences </h4>
  <a href="https://wpmanageninja.com">
-    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
-    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
-    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
-    <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
+    <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" />
+    <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" />
+    <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" />
+    <img height="110em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
 </a>
 
 <h4> Freelancing </h4>
