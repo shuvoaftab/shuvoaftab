@@ -80,8 +80,23 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 <div align="center">
     <table >
      <tr>
-        <td><b>Graduation (B.Sc. CSE)</b></td>
-        <td><b>Support Engineering</b></td>
+        <td><b>Automation</b></td>
+        <td><b>Cloud Services</b></td>
+     </tr>
+     <tr>
+       <td>Unlock the power of seamless marketing and automation with my expertise. From crafting compelling campaigns on Mailchimp to optimizing your WordPress and WooCommerce platforms, I bring a wealth of experience in leveraging CRM systems and email solutions like Klaviyo. Transform your digital presence with precision-targeted strategies, ensuring your message resonates with your audience. Harness the synergy of cutting-edge tools and platforms for a marketing approach that's not just efficient but irresistibly captivating. Let's elevate your brand through the art and science of marketing automation.</td>
+        <td>Embark on a cloud journey tailored to perfection with my comprehensive expertise in AWS, GCP, Oracle, Alibaba, and Azure. Navigate the cloud seamlessly as I optimize VM configurations, manage storage buckets, and fine-tune servers for peak performance. Whether you're looking to migrate, scale, or streamline operations, I orchestrate the intricate dance of cloud services with finesse. Trust in my proficiency to transcend the complexities of cloud computing, ensuring a secure, scalable, and future-ready digital infrastructure for your enterprise. Elevate your business to new heights with cloud solutions that go beyond expectations.</td>
+     </tr>
+    </table>
+</div>
+
+
+
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Email</b></td>
+        <td><b>Migration</b></td>
      </tr>
      <tr>
        <td>Completed Bachelor of Science in Computer Science and Engineering at Metropolitan University, Sylhet, gaining comprehensive knowledge in cutting-edge technologies and practices.</td>
@@ -89,6 +104,37 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
      </tr>
     </table>
 </div>
+
+
+
+<div align="center">
+    <table >
+     <tr>
+        <td><b>WordPress</b></td>
+        <td><b>Security</b></td>
+     </tr>
+     <tr>
+       <td>Completed Bachelor of Science in Computer Science and Engineering at Metropolitan University, Sylhet, gaining comprehensive knowledge in cutting-edge technologies and practices.</td>
+        <td>As a Technical Support Engineer at WPManageNinja, I excel in WordPress, managing diverse customer interactions, troubleshooting software bugs, and conducting rigorous testing. Engaged in collaborative team efforts and proficiently handling a spectrum of tech stacks, contributing to robust business solutions and ensuring client success.</td>
+     </tr>
+    </table>
+</div>
+
+
+
+<div align="center">
+    <table >
+     <tr>
+        <td><b>Analytics &amp; Tracking</b></td>
+        <td><b>Miscellaneousg</b></td>
+     </tr>
+     <tr>
+       <td>Completed Bachelor of Science in Computer Science and Engineering at Metropolitan University, Sylhet, gaining comprehensive knowledge in cutting-edge technologies and practices.</td>
+        <td>As a Technical Support Engineer at WPManageNinja, I excel in WordPress, managing diverse customer interactions, troubleshooting software bugs, and conducting rigorous testing. Engaged in collaborative team efforts and proficiently handling a spectrum of tech stacks, contributing to robust business solutions and ensuring client success.</td>
+     </tr>
+    </table>
+</div>
+
 
 <hr>
 <!---##------------------------------------------  Topic Based Experiences    ----------------------------------------------##--->
