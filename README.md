@@ -14,7 +14,6 @@
 <!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
 <h1 align="center"> 
 <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/" target="_blank"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logoColor=white&labelColor=33691e&logo=upwork"/></a>
-<a href="https://www.fiverr.com/shuvoaftab/" target="_blank"><img src="https://img.shields.io/badge/-Fiverr-1dbf73?style=for-the-badge&logoColor=white&labelColor=04914f&logo=fiverr"/></a> 
 <a href="https://www.linkedin.com/in/ibrahimsharif/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logoColor=white&labelColor=283593&logo=Linkedin"/></a>
 </h1>
 
@@ -49,12 +48,9 @@
 ![WordPress Development](https://img.shields.io/badge/-WordPress%20Development-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=wordpress)
 ![Website Performance](https://img.shields.io/badge/-Website%20Performance-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=Amazon+DynamoDB)
 ![Website Cloning & Migration](https://img.shields.io/badge/-Website%20Cloning%20and%20Migration-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=bookstack)
-![Ecommerce Development](https://img.shields.io/badge/-Ecommerce%20Development-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=magento)
 ![Ecommerce Migration](https://img.shields.io/badge/-Ecommerce%20Migration-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=shopify)
 ![Email Marketing](https://img.shields.io/badge/-Email%20Marketing-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=minutemailer)
 ![PowerMTA](https://img.shields.io/badge/-PowerMTA%20Infrastructures-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=TryHackMe)
-![Technical SEO](https://img.shields.io/badge/-Technical%20SEO-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=exercism)
-![Keyword Research](https://img.shields.io/badge/-Keyword%20Research-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=wordpress)
 ![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-0a00b6?style=flat-square&logoColor=white&labelColor=00363a&logo=Simple+Analytics)
 ![Web Automation](https://img.shields.io/badge/-Web%20Automation-dd2c00?style=flat-square&logoColor=white&labelColor=00363a&logo=amp)
 <!--
@@ -76,7 +72,6 @@
 ## Certifications
 <p>
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
-<img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/aws-sji-acknwoledgement.png" alt="Ibrahim Sharif AWS" />
 </p>
 
 <hr>
@@ -89,18 +84,18 @@
 <img height="180em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" />
 </p-->
 
-<!--h4> #1. Support Engineer </h4>
+<h4> #1. Support Engineer </h4>
     <a href="https://authlab.io/about/#team:~:text=Digital%20Marketer-,Ibrahim%20Sharif,-Support%20Engineer"><img height="100em"   src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/authlab_logo.png" alt="Ibrahim Sharif Authlab" /></a>
     <a href="https://wpmanageninja.com"><img height="100em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" /></a>
 
-<h4> #2. Product Documentation Writer < Fluent CRM, Forms, SMTP > </h4>
+<!--h4> #2. Product Documentation Writer < Fluent CRM, Forms, SMTP > </h4>
     <a href="https://fluentcrm.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentCRM.jpg" alt="Ibrahim Sharif FluentCRM" /></a>
     <a href="https://fluentforms.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentforms.jpg" alt="Ibrahim Sharif Fluent Forms" /></a>
     <a href="https://fluentsmtp.com"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fluentsmtp.jpg" alt="Ibrahim Sharif Fluent SMTP" /></a-->
     
 <h4> #3. Freelancing </h4>
     <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a>
-    <a href="https://www.fiverr.com/shuvoaftab"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/fiverr-level-two-ibrahimsharif.jpg" alt="Ibrahim Sharif Fiverr" /></a>
+    
     
 <hr>
 
