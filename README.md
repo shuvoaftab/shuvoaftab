@@ -11,6 +11,10 @@
 <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
 </p>
 
+<p align="center">
+A results-driven Computer Science and Engineering professional with a B.Sc. degree, specializing in WordPress, server administration, and diverse web-based solutions. Seeking a challenging role to leverage expertise in technical support, software troubleshooting, and collaborative teamwork. Proficient in multiple tech stacks, including Linux servers and networking with a Mikrotik certification. A top-rated freelancer on Upwork, I bring a proven track record of delivering high-quality projects. Eager to contribute innovative solutions and enhance business outcomes through continuous learning and application of cutting-edge technologies.
+</p>
+
 <!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
 <h1 align="center"> 
 <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/" target="_blank"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logoColor=white&labelColor=33691e&logo=upwork"/></a>
