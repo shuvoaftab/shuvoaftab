@@ -46,14 +46,14 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 Year & Concentration              | WorkPlace
 ----------------------------------|------
-Support Engineer (2022 - Now)     | <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage"><img align="center" height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" /></a>
-Top Rated Freelancer (2017 - Now) | <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img align="center" height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a>
+Support Engineer (2022 - Now)     | <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" /></a>
+Top Rated Freelancer (2017 - Now) | <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a>
     
 <hr>
 
 
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
-## Assistance Provided with 
+## Assistance Focused On 
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
 ![Networking](https://img.shields.io/badge/-Networking-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=fastlane)
 ![IT Support](https://img.shields.io/badge/-IT%20Support-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Hackaday)
