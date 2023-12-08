@@ -26,7 +26,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
         <img src="https://img.shields.io/badge/-ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=CircuitVerse"/>
     </a>
     <a href="mailto:contact@ibrahimsharif.com" target="_blank">
-        <img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=Mail.Ru"/>
+        <img src="https://img.shields.io/badge/-contact[at]ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=Mail.Ru"/>
     </a>
 </h1>
 
@@ -134,7 +134,7 @@ In the realm of email administration, I bring unparalleled expertise, seamlessly
 <div align="center">
     <table >
         <tr>
-            <td>❏ Cloud Services</td>
+            <td><b>❏ Cloud Services</b></td>
         </tr>
         <tr>
        <td>
@@ -167,7 +167,7 @@ Embark on a cloud journey tailored to perfection with my comprehensive expertise
 <div align="center">
     <table >
         <tr>
-            <td>❏ WordPress</td>
+            <td><b>❏ WordPress</b></td>
         </tr>
         <tr>
        <td>
@@ -200,7 +200,7 @@ Dive into a world of limitless possibilities with my WordPress expertise. From s
 <div align="center">
     <table >
         <tr>
-            <td>❏ Marketing &amp; Automation</td>
+            <td><b>❏ Marketing &amp; Automation</b></td>
         </tr>
      <tr>
        <td>
@@ -233,7 +233,7 @@ Unlock the power of seamless marketing and automation with my expertise. From cr
 <div align="center">
     <table >
         <tr>
-            <td>❏ Miscellaneous</td>
+            <td><b>❏ Miscellaneous</b></td>
         </tr>
      <tr>
        <td>
