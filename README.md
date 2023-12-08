@@ -3,6 +3,7 @@
 
 <p align="center">
     <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/ibrahimsharif-versity.jpg" alt="Ibrahim Sharif" />
+<!--     <img src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/multi-me-coverx1k.jpg" alt="Ibrahim Sharif" /> -->
     <img src="https://komarev.com/ghpvc/?username=shuvoaftab&label=Times%20Noticed&color=263238&style=flat" alt="Ibrahim Sharif" />
 </p>
 
@@ -25,7 +26,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
         <img src="https://img.shields.io/badge/-ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=CircuitVerse"/>
     </a>
     <a href="mailto:contact@ibrahimsharif.com" target="_blank">
-        <img src="https://img.shields.io/badge/-contact@ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=Mail.Ru"/>
+        <img src="https://img.shields.io/badge/-contact[at]ibrahimsharif.com-053B50?style=for-the-badge&logoColor=FFF7D4&labelColor=5C8374&logo=Mail.Ru"/>
     </a>
 </h1>
 
@@ -40,17 +41,6 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 </p>
 
 <hr>
-
-<!---##------------------------------------------  Past Jobs  ----------------------------------------------##--->
-## Work History
-
-Year & Concentration              | WorkPlace
-----------------------------------|------
-Support Engineer (2022 - Now)     | <a href="https://ibrahimsharif.com/about/myjourney.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/wpmanageninja.png" alt="Ibrahim Sharif WPManageNinja" /></a>
-Top Rated Freelancer (2017 - Now) | <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be"><img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Banners/upwork-top-rated-freelancer-ibrahimsharif.png" alt="Ibrahim Sharif Upwork" /></a>
-    
-<hr>
-
 
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
 ## Assistance Focused On 
@@ -144,7 +134,7 @@ In the realm of email administration, I bring unparalleled expertise, seamlessly
 <div align="center">
     <table >
         <tr>
-            <td>❏ Cloud Services</td>
+            <td><b>❏ Cloud Services</b></td>
         </tr>
         <tr>
        <td>
@@ -177,7 +167,7 @@ Embark on a cloud journey tailored to perfection with my comprehensive expertise
 <div align="center">
     <table >
         <tr>
-            <td>❏ WordPress</td>
+            <td><b>❏ WordPress</b></td>
         </tr>
         <tr>
        <td>
@@ -210,7 +200,7 @@ Dive into a world of limitless possibilities with my WordPress expertise. From s
 <div align="center">
     <table >
         <tr>
-            <td>❏ Marketing &amp; Automation</td>
+            <td><b>❏ Marketing &amp; Automation</b></td>
         </tr>
      <tr>
        <td>
@@ -243,7 +233,7 @@ Unlock the power of seamless marketing and automation with my expertise. From cr
 <div align="center">
     <table >
         <tr>
-            <td>❏ Miscellaneous</td>
+            <td><b>❏ Miscellaneous</b></td>
         </tr>
      <tr>
        <td>
