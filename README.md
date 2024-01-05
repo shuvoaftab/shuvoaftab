@@ -43,6 +43,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 <hr>
 
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
+<!--
 ## Assistance Focused On 
 ![Server Administration](https://img.shields.io/badge/-Server%20Administration-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=Serverless)
 ![Networking](https://img.shields.io/badge/-Networking-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=fastlane)
@@ -56,7 +57,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 ![Web Analytics](https://img.shields.io/badge/-Web%20Analytics-092635?style=flat-square&logoColor=FFF5E0&labelColor=435334&logo=Simple+Analytics)
 ![Web Automation](https://img.shields.io/badge/-Web%20Automation-053B50?style=flat-square&logoColor=FFF7D4&labelColor=5C8374&logo=amp)
 
-<hr>
+<hr-->
 
 <!---##------------------------------------------  Keypoints of Expertise    ----------------------------------------------##--->
 
