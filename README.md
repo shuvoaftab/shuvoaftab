@@ -132,7 +132,7 @@ In the realm of email administration, I bring unparalleled expertise, seamlessly
 </div>
 
 
-<div align="center">
+<!--div align="center">
     <table >
         <tr>
             <td><b>❏ Cloud Services</b></td>
@@ -162,7 +162,7 @@ Embark on a cloud journey tailored to perfection with my comprehensive expertise
            </td>
         </tr>
     </table>
-</div>
+</div-->
 
 
 <div align="center">
@@ -198,7 +198,7 @@ Dive into a world of limitless possibilities with my WordPress expertise. From s
 </div>
 
 
-<div align="center">
+<!--div align="center">
     <table >
         <tr>
             <td><b>❏ Marketing &amp; Automation</b></td>
@@ -228,7 +228,7 @@ Unlock the power of seamless marketing and automation with my expertise. From cr
            </td>
         </tr>
     </table>
-</div>
+</div-->
 
 
 <div align="center">
@@ -285,10 +285,11 @@ Embark on a journey of digital excellence with my versatile expertise. From opti
 
 
 <!---##------------------------------------------  Favorite Repositories   ----------------------------------------------##--->
+<!--
 ### Favorite Repositories :
 
 <a href="https://github.com/shuvoaftab/travelnotes">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=travelnotes&theme=yeblu&show_icons=true" />
-</a>
+</a-->
 
 
