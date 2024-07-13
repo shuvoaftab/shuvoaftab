@@ -34,13 +34,13 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 
 <!---##------------------------------------------  Certifications  ----------------------------------------------##--->
-## Education & Certifications
-<p>
+<!--## Education & Certifications-->
+<!--p>
     <img height="120em" src="https://github.com/shuvoaftab/ibrahimsharif.com/blob/main/assets/img/photos/certifications/Metropolitan-University-CSE-Certificate.jpg" alt="Ibrahim Sharif CSE CERTIFICATE" />
     <img height="120em" src="https://github.com/shuvoaftab/shuvoaftab/blob/master/images/Ibrahim-MTCNA1-2002NA2430.jpg" alt="Ibrahim Sharif MTCNA" />
 </p>
 
-<hr>
+<hr-->
 
 <!---##------------------------------------------  Focused Skills    ----------------------------------------------##--->
 <!--
