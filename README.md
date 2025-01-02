@@ -293,7 +293,7 @@ Embark on a journey of digital excellence with my versatile expertise. From opti
 </a-->
 
 <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvoaftab&theme=github" alt="Ibrahim Sharif's GitHub Contribution" width="50%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabshuvo&theme=github" alt="Ibrahim Sharif's GitHub Contribution" width="50%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvoaftab&theme=github" alt="Ibrahim Sharif's GitHub Contribution" width="49%"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabshuvo&theme=github" alt="Ibrahim Sharif's GitHub Contribution" width="49%"/>
 </p>
 
