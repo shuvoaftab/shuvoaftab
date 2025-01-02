@@ -292,14 +292,12 @@ Embark on a journey of digital excellence with my versatile expertise. From opti
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvoaftab&repo=travelnotes&theme=yeblu&show_icons=true" />
 </a-->
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/shuvoaftab">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvoaftab&theme=radical" alt="Ibrahim Sharif's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shuvoaftab&theme=github" alt="Ibrahim Sharif's GitHub Contribution"/>
   </a>
-</p>
-<p align="right">
   <a href="https://github.com/aftabshuvo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabshuvo&theme=radical" alt="Ibrahim Sharif's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabshuvo&theme=github" alt="Ibrahim Sharif's GitHub Contribution"/>
   </a>
 </p>
 
