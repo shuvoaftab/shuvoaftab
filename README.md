@@ -174,7 +174,7 @@ Embark on a cloud journey tailored to perfection with my comprehensive expertise
        <td>
 Dive into a world of limitless possibilities with my WordPress expertise. From sculpting captivating websites with themes and plugins to bespoke customizations and bug fixes, I craft digital experiences that captivate and convert. Elevate performance, fortify security, and seamlessly integrate WordPress email solutions like WP Mail SMTP. I'm not just a developer; I'm your WordPress ally, offering steadfast support and tailoring custom solutions that transform your online presence. Let's redefine what's possible with WordPress and propel your digital aspirations to new heights.
     <br/><br/>
-    Relevant Projects:<br/>
+<!--     Relevant Projects:<br/>
     <ol>
         <li>
             <a href="https://ibrahimsharif.com/services/wordpress/full-website-creation.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
@@ -191,7 +191,7 @@ Dive into a world of limitless possibilities with my WordPress expertise. From s
         <li>
             <a href="https://ibrahimsharif.com/services/security/wordpress-security-plugins.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
                 WordPress Security: Firewalls and Malwares</a></li>
-    </ol>
+    </ol> -->
            </td>
         </tr>
     </table>
@@ -240,7 +240,7 @@ Unlock the power of seamless marketing and automation with my expertise. From cr
        <td>
 Embark on a journey of digital excellence with my versatile expertise. From optimizing databases to decoding analytics with Google Tag Manager (GTM) and Google Analytics (GA), I sculpt data into actionable insights. Seamlessly integrate Facebook Pixel for targeted marketing precision. Navigate the intricate landscape of DNS configurations, ensuring seamless connectivity and SSL implementation for robust security. My comprehensive approach extends beyond specialties, weaving a tapestry of skills that fortify your digital foundation. Experience the assurance of a holistic expert, ready to tackle the multifaceted challenges of the digital realm.
     <br/><br/>
-    Relevant Projects:<br/>
+<!--     Relevant Projects:<br/>
     <ol>
         <li>
             <a href="https://ibrahimsharif.com/services/misc/custom-services.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
@@ -257,7 +257,7 @@ Embark on a journey of digital excellence with my versatile expertise. From opti
         <li>
             <a href="https://ibrahimsharif.com/services/database/mysql-administration.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
                 MySQL Administration</a></li>
-    </ol>
+    </ol> -->
            </td>
         </tr>
     </table>
