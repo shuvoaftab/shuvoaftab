@@ -16,9 +16,9 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
 
 <!---##------------------------------------------  Badge Links    ----------------------------------------------##--->
 <h1 align="center"> 
-    <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/" target="_blank">
+<!--     <a href="https://www.upwork.com/freelancers/~01fa5280996d3915be/" target="_blank">
         <img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logoColor=white&labelColor=33691e&logo=upwork"/>
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/ibrahimsharif/" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIN-0077B5?style=for-the-badge&logoColor=white&labelColor=283593&logo=Linkedin"/>
     </a>
