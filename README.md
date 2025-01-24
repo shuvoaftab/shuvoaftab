@@ -70,7 +70,7 @@ A results-driven Computer Science and Engineering professional with a B.Sc. degr
         <tr>
             <td>
 Mastering the art of server administration, I seamlessly navigate the digital landscape with expertise in Linux, Nginx, Apache, PHP, MySQL, and VPS configurations. Elevate your online presence with optimized server environments, ensuring swift and secure data delivery. From fine-tuning performance to troubleshooting, I orchestrate a symphony of technologies to keep your servers running at peak efficiency. Trust in my proficiency to manage the heartbeat of your digital infrastructure, providing stability and scalability for your web applications. Let's craft a server solution that transcends expectations and propels your online presence to new heights.
-    <br/><br/>
+<!--     <br/><br/>
     Relevant Projects:<br/>
     <ol>
         <li>
@@ -89,7 +89,7 @@ Mastering the art of server administration, I seamlessly navigate the digital la
         <li>
             <a href="https://ibrahimsharif.com/services/security/index.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
                 Server Security Assistance</a></li>
-    </ol>
+    </ol> -->
            </td>
         </tr>
     </table>
@@ -105,7 +105,7 @@ Mastering the art of server administration, I seamlessly navigate the digital la
            <td>
 In the realm of email administration, I bring unparalleled expertise, seamlessly orchestrating the intricacies of Linux, PowerMTA, Google Workspace, Office365, Mailchimp, SMTP, WordPress email, and WP Mail SMTP. Elevate your communication strategy with precision-tailored solutions, ensuring flawless delivery and inbox optimization. From crafting compelling email marketing campaigns to fine-tuning SMTP configurations, I navigate the email landscape with finesse. Trust in my proficiency to synchronize the power of technology, creating an email ecosystem that not only communicates but captivates. Let's redefine your email experience and forge connections that resonate.
         <br/><br/>
-        Relevant Projects:<br/>
+<!--         Relevant Projects:<br/>
         <ol>
             <li>
                 <a href="https://ibrahimsharif.com/services/email/email-marketing-applications.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
@@ -125,7 +125,7 @@ In the realm of email administration, I bring unparalleled expertise, seamlessly
             <li>
                 <a href="https://ibrahimsharif.com/services/email/wordpress-smtp.html?utm_source=gitHub&utm_medium=directLink&utm_campaign=githubPage">
                     WordPress SMTP Email Assistance</a></li>
-        </ol>
+        </ol> -->
            </td>
         </tr>
     </table>
